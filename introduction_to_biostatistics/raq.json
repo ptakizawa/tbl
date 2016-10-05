@@ -1,0 +1,151 @@
+{
+"questions":  
+[
+	{
+	"question": 
+		{
+		"number": "1",
+		"stem": {
+			"paragraph_1": "A new screening test for Zika has been developed. Which test parameter best describes the ability of this test to correctly identify those individuals with Zika disease? "
+		},
+		"img": "",
+		"options": 
+			[
+			"Positive predictive value",
+			"Negative predictive value",
+			"Specificity",
+			"Sensitivity"
+			],
+		"explanation":"Sensitivity is the ability of the test/procedure to detect those who have the disease"
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "2",
+		"stem": {
+			"paragraph_1": "A new screening test for Zika has been developed. Which test parameter best describes the ratio of the likelihood of obtaining a positive test result in patient with the disease, to this likelihood in a patient who does not have the disease?"
+		},
+		"img": "",
+		"options": 
+			[
+			"Positively likelihood ratio",
+			"Negative likelihood ratio",
+			"Reliability",
+			"Accuracy"
+			],
+		"explanation":"Likelihood ratio positive LR+: Is the ratio of the likelihood that positive test results occur in patients with the disease versus the likelihood that positive test results occurs in patients without the disease"
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "3",
+		"stem": {
+			"paragraph_1": "A new screening test for Zika has been developed. Which test parameter best describes the ability of this test to correctly identify those individuals without disease?"
+		},
+		"img": "",
+		"options": 
+			[
+			"Sensitivity",
+			"Specificity",
+			"Positive predictive value",
+			"Negative predictive value"
+			],
+		"explanation":"Specificity is the ability of the test/procedure to detect those who DO NOT have the disease"
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "4",
+		"stem": {
+			"paragraph_1": "A new screening test for Zika has been developed. Which test parameter best describes the ability of this new test, to correctly identify those individuals without Zika disease, from the group of individuals with negative screening test?"
+		},
+		"img": "",
+		"options": 
+			[
+			"Sensitivity",
+			"Specificity",
+			"Negative predictive value",
+			"Positive predictive value"
+			],
+		"explanation": "Predictive value of a negative test is the proportion of time that patient with negative diagnostic test result DOES NOT have the disease being investigated."
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "5",
+		"stem": {
+			"paragraph_1": "A new screening test for Zika has been developed. Which test parameter best describes the ratio of the likelihood of obtaining a negative test result in patient with the disease, to this likelihood in a patient who does not have the disease?"
+		}
+		"img": "",
+		"options": 
+			[
+			"Reliability",
+			"Accuracy",
+			"Negative likelihood ratio",
+			"Positive likelihood ratio"
+			],
+		"explanation": "Likelihood ratio negative LR-: Is the ratio of the likelihood that negative test results occurs in patients with the disease versus the likelihood that negative test results occurs in patients without the disease."
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "6",
+		"stem": {
+			"paragraph_1": "A new screening test for Zika has been developed. Which test parameter best describes the ability of this test to correctly identify those individuals with Zika disease out of the group of individuals with positive screening tests?"
+		},
+		"img": "",
+		"options": 
+			[
+			"Positive predictive value",
+			"Negative predictive value",
+			"Sensitivity",
+			"Specificity"
+			],
+		"explanation": "Predictive value of a positive test is the proportion of time that patient with positive diagnostic test result has the disease being investigated."
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "7",
+		"stem": {
+			"paragraph_1": "A new screening test for Zika has been developed. Which test parameter best describes the proportion of true results among all test results?"
+		},
+		"img": "",
+		"options": 
+			[
+			"Positive likelihood ratio",
+			"Negative likelihood ratio",
+			"Accuracy",
+			"Reliability"
+			],
+		"explanation": "The proportion of true results among all test results that are correctly identified by the test. "
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "8",
+		"stem": {
+			"paragraph_1": "A new screening test for Zika has been developed. Which test parameter best describes the reproducibility of test results?"
+		},
+		"img": "",
+		"options": 
+			[
+			"Accuracy",
+			"Reliability",
+			"Negative likelihood ratio",
+			"Positive likelihood ratio"
+			],
+		"explanation": "Reliability is measure of the reproducibility of measurement/test."
+		}
+	}
+],
+"date": "22 Sep 2016 10:00:00 GMT-400",
+"release_questions": "22 Sep 2016 9:30:00 GMT-400"
+}

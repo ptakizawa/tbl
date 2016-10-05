@@ -1,0 +1,108 @@
+{
+	"questions": [{
+		"question": {
+			"number": "1",
+			"stem": {
+				"paragraph_1": "Identify the cell"
+			},
+			"img": "raq_1.jpg",
+			"options": [
+				"Lymphocyte",
+				"Monocyte",
+				"Basophil",
+				"Neutrophil"
+			],
+			"explanation": "Note the cell is much larger than the surrounding erythrocytes and it has an indented nucleus. Both indicate that this cell is a monocyte."
+		}
+	}, {
+		"question": {
+			"number": "2",
+			"stem": {
+				"paragraph_1": "Name a condition in which these cells will be elevated."
+			},
+			"img": "raq_2.jpg",
+			"options": [
+				"Bacterial infection",
+				"Viral infection",
+				"Parasitic infection",
+				"Anemia"
+			],
+			"explanation": "First identify the cell as an eosinophil: bi-lobed nucleus and orange granules. Next, recall that the granules contain major basic protein that kills parasites."
+		}
+	}, {
+		"question": {
+			"number": "3",
+			"stem": {
+				"paragraph_1": "Which of the following components is/are found in the dark, blue granules in the cell in the center of the image?"
+			},
+			"img": "raq_3.jpg",
+			"options": [
+				"Histamine",
+				"Acid hydrolases",
+				"Antibodies",
+				"Peroxidase"
+			],
+			"explanation": "The presence of the large, blue granules indicates this cell is a basophil, which contains histamine and heparin."
+		}
+	}, {
+		"question": {
+			"number": "4",
+			"stem": {
+				"paragraph_1": "Identify the cell with a nucleus."
+			},
+			"img": "raq_4.jpg",
+			"options": [
+				"Monocyte",
+				"Basophil",
+				"Neutrophil",
+				"Lymphocyte"
+			],
+			"explanation": "The round nucleus and lack of dark blue granules eliminate neutrophil and basophil, respectively, as possible answers. The nucleus is not indented and the cell is only slightly larger than a erythrocyte, eliminating monocyte."
+		}
+	}, {
+		"question": {
+			"number": "5",
+			"stem": {
+				"paragraph_1": "Under which condition would you expect to see an increased number of these cells?"
+			},
+			"img": "raq_5.jpg",
+			"options": [
+				"Bacterial infection",
+				"Viral infection",
+				"Parasitic infection",
+				"Anemia"
+			],
+			"explanation": "First identify the cell as a band cell: horseshoe-shaped nucleus and mix of purple and lilac granules. Recall that band cells are precursors to neutrophils and that neutrophils are increased during bacterial infections."
+		}
+	}, {
+		"question": {
+			"number": "6",
+			"stem": {
+				"paragraph_1": "What is the expected MCV for the CBC below?"
+			},
+			"img": "raq_6.jpg",
+			"options": [
+				"&lt; 80 fL",
+				"80 - 100 fL",
+				"&gt; 100 fL"
+			],
+			"explanation": "The size of the red blood cells is smaller than the size of the lymphocyte nucleus located on the right side of the smear. Given that a normal MCV, which describes red cell size, is 80-100 fL, the MCV of these cells must be less than 80 fL."
+		}
+	}, {
+		"question": {
+			"number": "7",
+			"stem": {
+				"paragraph_1": "What is the expected RDW for the CBC below?"
+			},
+			"img": "raq_7.jpg",
+			"options": [
+				"&lt; 15%",
+				"&gt; 15%"
+			],
+			"explanation": "The heterogeneous sizes of the various red blood cells makes for a large size distribution. The RDW is therefore high, greater than 15%"
+		}
+	}
+	],
+	"date": "21 Oct 2016 10:00:00 GMT-400",
+	"release_questions": "21 Oct 2016 9:30:00 GMT-400"
+}

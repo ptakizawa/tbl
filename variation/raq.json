@@ -1,0 +1,80 @@
+{
+"questions":  
+[
+	{
+	"question": 
+		{
+		"number": "1",
+		"stem": {
+			"paragraph_1": "A study of serum triglycerides levels among patients with history of myocardial infarction revealed that serum triglycerides is normally distributed with a mean of 200 mg/dL and standard deviation of 10 mg/dL. Within the study population 68% of the serum triglycerides values will lie within the limits of which of the following?"
+		},
+		"img": "",
+		"options": 
+			[
+			"180 mg/dL to 210 mg/dL",
+			"170 mg/dL to 230 mg/dL",
+			"180 mg/dL to 220 mg/dL",
+			"190 mg/dL to 210 mg/dL"
+			],
+		"explanation":""
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "2",
+		"stem": {
+			"paragraph_1": "For questions 2 - 4, an investigator measured body mass index(BMI) of fitness club members. He reported that 15% were under-weight, 30% had healthy weight, and 15% are overweight, 25% are obese, and 15% extremely obese. The members were mostly men (75%).",
+			"paragraph_2": "What is the probability that a randomly selected member of the club members will be healthy or overweight?"
+		},
+		"img": "",
+		"options": 
+			[
+			"20%",
+			"25%",
+			"30%",
+			"45%"
+			],
+		"explanation":""
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "3",
+		"stem": {
+			"paragraph_1": "The probability that a randomly selected member will be male and of healthy weight?"
+		},
+		"img": "",
+		"options": 
+			[
+			"0.0009",
+			"0.009",
+			"0.09",
+			"0.225"
+			],
+		"explanation":""
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "4",
+		"stem": {
+			"paragraph_1": "A patient had undergone a cholecystectomy operation. Post-operatively, he complained of pain. The attending surgeon asked him to rate his pain on a scale of 0 (no pain) to 10 (the worst pain). The patient reported that his pain is a 9. After the administration of 100mg ketoprofen, the patient reported that the pain is now a 5 on the same scale. After the administration of morphine sulfate, given as an intravenous push, the pain is 0. This pain scale is an example of which type of scale?"
+		},
+		"img": "",
+		"options": 
+			[
+			"Nominal scale",
+			"Continuous scale",
+			"Ratio scale",
+			"Qualitative scale"
+			],
+		"explanation": ""
+		}
+	}
+],
+"date": "6 Oct 2016 10:00:00 GMT-400",
+"release_questions": "6 Oct 2016 9:30:00 GMT-400"
+}

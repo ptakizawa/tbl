@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="1024" height="768" viewBox="0, 0, 1024, 768">
+<title>Renal Corpuscle</title>
+	<desc>A section of kidney showing a renal corpuscle</desc>
+	<image xlink:href="images/renal_corpuscle.jpg" width="100%" height="100%" />
+<g id="Image">
+    <path d="M226.621,287.5 L273.5,287.5" fill-opacity="0" stroke="#2F8A0D" stroke-width="4"/>
+    <text transform="matrix(1, 0, 0, 1, 343.561, 287)">
+      <tspan x="-67.439" y="8" font-family="Verdana-Bold" font-size="24" fill="#010101">Capillary</tspan>
+    </text>
+    <path d="M303.621,464.5 L350.5,464.5" fill-opacity="0" stroke="#2F8A0D" stroke-width="4"/>
+    <text transform="matrix(1, 0, 0, 1, 449.061, 465)">
+      <tspan x="-95.939" y="7" font-family="Verdana-Bold" font-size="24" fill="#010101">Mesangial cell</tspan>
+    </text>
+    <path d="M234.621,245.5 L281.5,245.5" fill-opacity="0" stroke="#2F8A0D" stroke-width="4"/>
+    <text transform="matrix(1, 0, 0, 1, 351.561, 245)">
+      <tspan x="-67.439" y="8" font-family="Verdana-Bold" font-size="24" fill="#010101">Podocyte</tspan>
+    </text>
+    <path d="M476.621,110.5 L523.5,110.5" fill-opacity="0" stroke="#2F8A0D" stroke-width="4"/>
+    <text transform="matrix(1, 0, 0, 1, 642.561, 109)">
+      <tspan x="-116.439" y="9" font-family="Verdana-Bold" font-size="24" fill="#010101">Bowman's space</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 879.561, 332)">
+      <tspan x="-77.439" y="-20" font-family="Verdana-Bold" font-size="24" fill="#010101">Proximal </tspan>
+      <tspan x="-77.439" y="9" font-family="Verdana-Bold" font-size="24" fill="#010101">convoluted </tspan>
+      <tspan x="-77.439" y="38" font-family="Verdana-Bold" font-size="24" fill="#010101">tubule</tspan>
+    </text>
+    <path d="M856.621,229.5 L865.5,288.5" fill-opacity="0" stroke="#2F8A0D" stroke-width="4"/>
+    <text transform="matrix(1, 0, 0, 1, 180.182, 90.5)">
+      <tspan x="-53.939" y="-8.5" font-family="Verdana-Bold" font-size="24" fill="#010101">Parietal </tspan>
+      <tspan x="-53.939" y="20.5" font-family="Verdana-Bold" font-size="24" fill="#010101">layer</tspan>
+    </text>
+    <path d="M180.621,123.5 L218.5,177.5" fill-opacity="0" stroke="#2F8A0D" stroke-width="4"/>
+    <g>
+      <path d="M134.22,400.665 L333.5,403.5" fill-opacity="0" stroke="#2F8A0D" stroke-width="4"/>
+      <path d="M134.22,400.665 L124.621,400.528 M124.735,392.529 L124.507,408.528" fill-opacity="0" stroke="#2F8A0D" stroke-width="4" stroke-opacity="1"/>
+    </g>
+    <text transform="matrix(1, 0, 0, 1, 418.182, 403)">
+      <tspan x="-77.939" y="7" font-family="Verdana-Bold" font-size="24" fill="#010101">Glomerulus</tspan>
+    </text>
+    <g>
+      <path d="M683.9,402 L502.5,402" fill-opacity="0" stroke="#2F8A0D" stroke-width="4"/>
+      <path d="M683.9,402 L693.5,402 M693.5,410 L693.5,394" fill-opacity="0" stroke="#2F8A0D" stroke-width="4" stroke-opacity="1"/>
+    </g>
+    <text transform="matrix(1, 0, 0, 1, 602.56, 34.5)">
+      <tspan x="-128.439" y="6.5" font-family="Verdana-Bold" font-size="24" fill="#010101">Bowman's capsule</tspan>
+    </text>
+    <path d="M471.621,35.5 L419.5,83.5" fill-opacity="0" stroke="#2F8A0D" stroke-width="4"/>
+  </g>
+</svg>

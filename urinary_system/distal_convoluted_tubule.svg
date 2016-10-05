@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="1024" height="768" viewBox="0, 0, 1024, 768">
+<title>Distal Convoluted Tubule</title>
+	<desc>A section of kidney highlighting the distal convoluted tubule</desc>
+	<image xlink:href="images/distal_convoluted_tubule.jpg" width="100%" height="100%" />
+  <g id="Image">
+    <text transform="matrix(1, 0, 0, 1, 361.561, 69.5)">
+      <tspan x="-79.439" y="-20.5" font-family="Verdana-Bold" font-size="24" fill="#010101">Distal </tspan>
+      <tspan x="-79.439" y="8.5" font-family="Verdana-Bold" font-size="24" fill="#010101">convoluted </tspan>
+      <tspan x="-79.439" y="37.5" font-family="Verdana-Bold" font-size="24" fill="#010101">tubules</tspan>
+    </text>
+    <path d="M167.379,65.5 L275.5,69.5" fill-opacity="0" stroke="#2F8A0D" stroke-width="4"/>
+    <path d="M333.379,114.5 L398.5,229.5" fill-opacity="0" stroke="#2F8A0D" stroke-width="4"/>
+    <path d="M316.379,302.5 L441.5,291.5" fill-opacity="0" stroke="#2F8A0D" stroke-width="4"/>
+    <text transform="matrix(1, 0, 0, 1, 640.439, 290)">
+      <tspan x="-197.439" y="7" font-family="Verdana-Bold" font-size="24" fill="#010101">Proximal convoluted tubule</tspan>
+    </text>
+    <path d="M527.5,441.5 L647.5,429.5" fill-opacity="0" stroke="#2F8A0D" stroke-width="4"/>
+    <text transform="matrix(1, 0, 0, 1, 735.561, 431)">
+      <tspan x="-83.439" y="7" font-family="Verdana-Bold" font-size="24" fill="#010101">Glomerulus</tspan>
+    </text>
+  </g>
+</svg>

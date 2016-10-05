@@ -1,0 +1,74 @@
+{
+	"questions": [{
+		"question": {
+			"number": "1",
+			"stem": {
+				"paragraph_1": "What is the specific mutation in the beta globin gene that gives rise to Hgb S?"
+			},
+			"img": "",
+			"options": [
+				"Glutamate at amino acid position 6 is changed to valine",
+				"A portion of the beta globin gene is deleted."
+			],
+			"explanation": "A change in amino acid position 6 from glutamate to valine is the cause of Hgb S. Deletion of a portion of the beta globin gene would lead to beta-thalassemia."
+		}
+	}, {
+		"question": {
+			"number": "2",
+			"stem": {
+				"paragraph_1": "A patient with chronic anemia has a hemoglobin electrophoresis that shows the following:",
+				"list_1": [
+					"Hgb A 20%",
+					"Hgb A2 10%",
+					"Hgb F 70%"
+				],
+				"paragraph_2": "What condition best fits the hemoglobin electrophoresis pattern?"
+			},
+			"img": "",
+			"options": [
+				"Sickle cell disease",
+				"Sickle cell trait",
+				"Alpha-thalassemia",
+				"Beta-thalassemia"
+			],
+			"explanation": "A low hemoglobin A, elevated hemoglobin A2, and elevated hemoglobin F suggest that beta globin production is defective, which would be consistent with beta-thalassemia. Sickle cell disease would be expected to show predominantly Hgb S, while sickle cell trait would show around or just under 50% Hgb S. Alpha-thalassemia would be expected to show a normal hemoglobin electrophoresis if only one or two of the four alpha globin genes were affected."
+		}
+	}, {
+		"question": {
+			"number": "3",
+			"stem": {
+				"paragraph_1": "A patient with chronic anemia and recurrent pain crisis has a hemoglobin electrophoresis that shows the following:",
+				"list_1": [
+					"Hgb A 30%",
+					"Hgb A2 9%",
+					"Hgb S 58%",
+					"Hgb F 3%"
+				],
+				"paragraph_2": "What condition best fits the hemoglobin electrophoresis pattern?"
+			},
+			"img": "",
+			"options": [
+				"Sickle cell disease",
+				"Sickle cell trait",
+				"Sickle cell/Alpha-thalassemia",
+				"Sickle cell/Beta-thalassemia"
+			],
+			"explanation": "The reduction in Hgb A and increase in Hgb A2 suggest that a beta-thalassemia gene is present; with greater than 50% hemoglobin S, the findings are most consistent with sickle cell/beta-thalassemia, which has a clinical phenotype similar to sickle cell disease."
+		}
+	}, {
+		"question": {
+			"number": "4",
+			"stem": {
+				"paragraph_1": "A 24 year-old woman sees her primary care physician for malaise and jaundice. She complains of a nonproductive cough that has been going on for a few weeks. She also has developed a rash on her cheeks over the past year. Laboratory studies show significant anemia, with a hemoglobin of 7 g/dL. A reticulocyte count is elevated at 15%. She is referred to a hematologist, who checks a direct Coombs test that shows red cell agglutination upon incubation with both anti-IgG AHG and anti-C3 AHG. What is the likely diagnosis?"
+			},
+			"img": "",
+			"options": [
+				"Lupus",
+				"Infectious mononucleosis"
+			],
+			"explanation": "The combination of anemia and reticulocytosis with positive direct Coombs test is consistent with an immune-mediated hemolytic anemia, likely AIHA, which can be either warm or cold. Warm AIHA is typically IgG-fixing and may sometimes be C3-fixing as well. Cold AIHA is exclusively C3-fixing. The finding of both IgG and C3 fixation is consistent with warm AIHA, which can occur as a consequence of autoimmune diseases such as lupus."
+		}
+	}],
+	"date": "21 Oct 2016 10:00:00 GMT-400",
+	"release_questions": "21 Oct 2016 9:30:00 GMT-400"
+}

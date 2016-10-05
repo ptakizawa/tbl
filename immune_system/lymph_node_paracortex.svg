@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type="text/css" href="../css/svg.css" ?> 
+<svg viewBox="0 0 1024 768" preserveAspectRatio="xMinYMin meet" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Lymph Node - Paracortex</title>
+	<desc>An image of the paracortex in the lymph node stained by H&amp;E</desc>
+	<image xlink:href="images/lymph_node_paracortex.jpg" width="100%" height="100%" />
+	<defs>
+		<marker id="markerCircle" markerWidth="16" markerHeight="16" refX="10" refY="10" markerUnits="userSpaceOnUse">
+        	<circle cx="10" cy="10" r="6" />
+    	</marker>
+		<marker id="markerArrow" markerWidth="13" markerHeight="13" refX="2" refY="6" markerUnits="userSpaceOnUse"
+           orient="auto">
+		   <path d="M2,2 L2,11 L10,6 L2,2" style="fill: #000000;" />
+    	</marker>
+    	<path id="text-path-1" d="M140,262 Q202,150 305,78" />
+    	<path id="text-path-2" d="M864,620 Q939,525 974,390" />
+	</defs>
+	<!-- High Endothelial Venule -->
+	<path class ="marker-line" d="M622,152 L722,152" />
+	<text  class="marker-text-left" x="617" y="152" style="fill:white;">High Endothelial Venule</text>
+</svg>

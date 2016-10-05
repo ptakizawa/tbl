@@ -1,0 +1,98 @@
+{
+"questions":  
+[
+	{
+	"question": 
+		{
+		"number": "1",
+		"stem": {
+			"paragraph_1": "A patient with coronary artery disease, chronic obstructive pulmonary disease, and 80 pack-year smoking history presents with acute chest pain, dyspnea, and hypoxia.  EKG is notable for sinus tachycardia and diffuse submillimeter ST depression.  Exam is notable for tachycardia, II/VI systolic ejection murmur at base, and decreased breath sounds throughout the left lung field.  Which following test would most likely confirm the diagnosis?"
+		},
+		"img": "",
+		"options": 
+			[
+			"Chest X-ray",
+			"Echocardiogram",
+			"CT angiography",
+			"Coronary angiography"
+			],
+		"explanation":""
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "2",
+		"stem": {
+			"paragraph_1": "Which of the following imaging modalities can definitively diagnose aortic dissection?"
+		},
+		"img": "",
+		"options": 
+			[
+			"Transthoracic echocardiogram",
+			"Transesophageal echocardiogram",
+			"CT angiography",
+			"Both B and C"
+			],
+		"explanation":""
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "3",
+		"stem": {
+			"paragraph_1": "Which of the following is NOT a cause of cardiogenic pulmonary edema"
+		},
+		"img": "",
+		"options": 
+			[
+			"Hypertensive emergency",
+			"Acute ischemia",
+			"Valvular regurgitation",
+			"Acute respiratory distress syndrome"
+			],
+		"explanation":""
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "4",
+		"stem": {
+			"paragraph_1": "How can you clinically differentiate septic shock from cardiogenic shock?"
+		},
+		"img": "",
+		"options": 
+			[
+			"Only by history alone - they are very similar on exam.",
+			"Septic shock patients have high blood pressure and cardiogenic shock patients have low blood pressure.",
+			"Septic shock patients have warm extremities and cardiogenic shock patients have cool extremities.",
+			"Septic shock patients have high urine output and cardiogenic shock patients have low urine output."
+			],
+		"explanation": ""
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "5",
+		"stem": {
+			"paragraph_1": "If you suspect a patient is in cardiac tamponade, what should you do while waiting for the cardiology consultant to arrive?"
+		},
+		"img": "",
+		"options": 
+			[
+			"Cross your fingers and hope she hurries up already.",
+			"Give hydralazine to reduce afterload.",
+			"Give diuretics to try to reduce the amount of fluid around the heart.",
+			"Give wide open IV fluids to increase preload."
+			],
+		"explanation": ""
+		}
+	}
+
+],
+"date": "7 Sep 2016 8:00:00 GMT-400",
+"release_questions": "7 Sep 2016 7:30:00 GMT-400"
+}

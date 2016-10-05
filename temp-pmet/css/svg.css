@@ -1,0 +1,43 @@
+circle {
+	stroke: none;
+	fill:#000000;
+}
+
+circle.marker-circle {
+	stroke: #009900;
+	stroke-width: 4px;
+	fill: none;
+}
+
+path.marker-line {
+	stroke: #009900;
+	stroke-width: 4px;
+	fill: none;
+}
+
+path.polygon {
+	stroke: #009900;
+	stroke-width: 4px;
+	fill:none;
+}
+
+text.marker-text-right {
+	font-family: "Verdana";
+	text-anchor: start;
+	dominant-baseline: central;
+	font-size: 2em;
+	font-weight: 700;
+}
+
+text.marker-text-left {
+	font-family: "Verdana";
+	text-anchor: end;
+	dominant-baseline: central;
+	font-size: 2em;
+	font-weight: 700;
+}
+
+text.marker-large {
+	text-anchor: start;
+	font-size: 3em;
+}

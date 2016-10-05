@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type="text/css" href="../css/svg.css" ?> 
+<svg viewBox="0 0 1024 768" preserveAspectRatio="xMinYMin meet" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Sebaceous Sweat Gland</title>
+	<desc>A section of skin showing a sebaceous sweat gland</desc>
+	<image xlink:href="images/sebaceous_sweat_gland.jpg" width="100%" height="100%" />
+	<defs>
+		<marker id="markerCircle" markerWidth="16" markerHeight="16" refX="10" refY="10" markerUnits="userSpaceOnUse">
+        	<circle cx="10" cy="10" r="6" />
+    	</marker>
+		<marker id="markerArrow" markerWidth="13" markerHeight="13" refX="2" refY="6" markerUnits="userSpaceOnUse"
+           orient="auto">
+		   <path d="M2,2 L2,11 L10,6 L2,2" style="fill: #000000;" />
+    	</marker>
+	</defs>
+	<!-- Lumen -->
+	<text  x="675" y="390" style="font-size:2em; font-family:Verdana; font-weight:700; text-anchor: middle;">Lumen</text>
+	<!-- Bleb-->
+	<path class="marker-line" d="M558,545 L658,545" />
+	<text class="marker-text-right" x="663" y="545" style="font-size:2em; font-family:Verdana; font-weight:700;">Sebaceous Gland</text>
+	<!-- Secretory Cell-->
+	<path class="marker-line" d="M429,496 L329,496" />
+	<text class="marker-text-left" x="324" y="496" style="font-size:2em; font-family:Verdana; font-weight:700;">Hair Follicle</text>
+</svg>

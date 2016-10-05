@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type="text/css" href="../css/svg.css" ?> 
+<svg viewBox="0 0 1024 768" preserveAspectRatio="xMinYMin meet" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Lymph Node - Cross Section</title>
+	<desc>A cross section of a lymph node stained by H&amp;E</desc>
+	<image xlink:href="images/lymph_node.jpg" width="100%" height="100%" />
+	<defs>
+		<marker id="markerCircle" markerWidth="16" markerHeight="16" refX="10" refY="10" markerUnits="userSpaceOnUse">
+        	<circle cx="10" cy="10" r="6" />
+    	</marker>
+		<marker id="markerArrow" markerWidth="13" markerHeight="13" refX="2" refY="6" markerUnits="userSpaceOnUse"
+           orient="auto">
+		   <path d="M2,2 L2,11 L10,6 L2,2" style="fill: #000000;" />
+    	</marker>
+	</defs>
+	<!-- Capsule -->
+	<path class ="marker-line" d="M820,14 L720,14" />
+	<text class="marker-text-right" x="825" y="14">Capsule</text>
+	<!-- Cortex Label -->
+	<path class="marker-line" d="M782,282 L1006,282" style="marker-end: url(#markerCircle); marker-start: url(#markerCircle);" />
+	<text  x="894" y="272" style="font-size:2em; font-family:Verdana; font-weight:700; text-anchor: middle;">Cortex</text>
+	<!-- Medulla -->
+	<text  x="659" y="272" style="font-size:2em; font-family:Verdana; font-weight:700; text-anchor: middle;">Medulla</text>
+	<!-- Secondary Follicle -->
+	<path class="marker-line" d="M853,492 L953,492" />
+	<text class="marker-text-left" x="843" y="492" style="font-size:2em; font-family:Verdana; font-weight:700;">Germinal Center</text>
+	<!-- Paracortex -->
+	<path class="marker-line" d="M751,422 L851,422" />
+	<text class="marker-text-left" x="746" y="422" style="font-size:2em; font-family:Verdana; font-weight:700;">Paracortex</text>
+	
+</svg>

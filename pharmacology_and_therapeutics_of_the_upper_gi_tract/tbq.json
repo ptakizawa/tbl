@@ -1,0 +1,30 @@
+{
+"questions":  [
+	{"question": 
+		{
+		"number": "1",
+		"stem": {
+			"paragraph_1": "A 33 year old lady was referred to us for symptoms suggestive of rather vague dyspepsia of several years duration.",
+			"paragraph_2": "She moved the palm of her hand over her upper abdomen, mostly over the epigastrium when asked to show where it hurt.  The pain did not radiate.  It frequently came on after eating.  What she ate did not seem to matter that much.  The pain would come on very shortly after eating or on occasion even towards the end of a meal.  On occasion if she ate more than usual, then it would definitely come on. The pain would last anywhere from a half hour to several hours.  There were no other aggravating factors other than eating, and no relieving factors as such. Once she went to bed she slept well, but often upon awakening from sleep the pain would begin again, sometimes not until breakfast.",
+			"paragraph_3": "She also complained of nausea off and on at the time of the pain.  She had belching frequently after food and felt a little bloated.",
+			"paragraph_4": "Her bowel movements were normal, once a day most of the time",
+			"paragraph_5": "She had not lost any weight.  At her last checkup with her personal Physician she had a normal CBC (i.e. was not anemic), her serum electrolytes, glucose, BUN and serum creatinine were all normal as on several previous occasions.   Her serum albumin was 4.5 g/dl (very normal indeed).",
+			"paragraph_6": "Physical Examination: Her BMI was normal.  She had no evidence on clinical examination of malnutrition. Her abdominal examination was normal, though occasionally while palpating her abdomen she would say it was tender in the upper abdomen.",
+			"paragraph_7": "Over the years she had undergone EGD twice and on both occasions the endoscopy report was completely normal.",
+			"paragraph_8": "What do you think is the etiology of her symptoms, which do meet the definition for dyspepsia?",
+			"paragraph_9": "Would you consider anything else in your differential diagnosis?",
+			"paragraph_10": "A gastroenterologist in the past had empirically given her a short course of Metoclopramide. She did not fel any better. Why do you suppose it was given?",
+			"paragraph_11": "Along those lines, is there a test you might do to assess gastric emptying?",
+			"paragraph_12": "What might her condition be if indeed you ruled out gastroparesis?"
+		},
+		"img": "",
+		"options": 
+			[
+			],
+		"explanation":""
+		}
+	}
+],
+"date": "4 Oct 2016 9:00:00 GMT-400",
+"release_questions": "4 Oct 2016 8:30:00 GMT-400"
+}

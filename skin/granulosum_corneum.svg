@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type="text/css" href="../css/svg.css" ?> 
+<svg viewBox="0 0 1024 768" preserveAspectRatio="xMinYMin meet" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Stratum Granulosum and Corneum</title>
+	<desc>A section of stratum granulosum and corneum stained with H&amp;E</desc>
+	<image xlink:href="images/granulosum_and_corneum.jpg" width="100%" height="100%" />
+	<defs>
+		<marker id="markerCircle" markerWidth="16" markerHeight="16" refX="10" refY="10" markerUnits="userSpaceOnUse">
+        	<circle cx="10" cy="10" r="6" />
+    	</marker>
+		<marker id="markerArrow" markerWidth="13" markerHeight="13" refX="2" refY="6" markerUnits="userSpaceOnUse"
+           orient="auto">
+		   <path d="M2,2 L2,11 L10,6 L2,2" style="fill: #000000;" />
+    	</marker>
+	</defs>
+	<!-- Stratum Corneum-->
+	<text  x="372" y="90" style="font-size:2em; font-family:Verdana; font-weight:700; text-anchor: middle;">Stratum Corneum</text>
+	<!-- Stratum Granulosum -->
+	<text  x="372" y="320" style="font-size:2em; font-family:Verdana; font-weight:700; text-anchor: middle;">Stratum Granulosum</text>
+	<!-- Stratum Spinosum -->
+	<text  x="372" y="650" style="font-size:2em; font-family:Verdana; font-weight:700; text-anchor: middle;">Stratum Spinosum</text>
+	<!-- Keratohyaline Granule -->
+	<path class="marker-line" d="M291,371 L391,371" />
+	<text class="marker-text-right" x="396" y="371" style="font-size:2em; font-family:Verdana; font-weight:700;">Keratohyaline Granule</text>
+</svg>

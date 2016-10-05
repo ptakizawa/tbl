@@ -1,0 +1,98 @@
+{
+"questions":  
+[
+	{
+	"question": 
+		{
+		"number": "1",
+		"stem": {
+			"paragraph_1": "During development, the ectoderm gives rise to both neural tissue and epithelia. The separation of these two tissues most likely involves a change in expression of which of the following proteins?"
+		},
+		"img": "",
+		"options": 
+			[
+			"Cadherin",
+			"Integrin",
+			"Catenin",
+			"Connexin"
+			],
+		"explanation":"Because different tissues express different types of cadherins, a change in cadherin expression will allow two groups of cells to separate from each other."
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "2",
+		"stem": {
+			"paragraph_1": "In some muscle tissue, stimulating one cell to contract leads to contraction of adjacent cells. Which of the following structures is most likely involved in the spread of a signal to contract?"
+		},
+		"img": "",
+		"options": 
+			[
+			"Adhering junction",
+			"Desmosomes",
+			"Integrins",
+			"Gap junctions"
+			],
+		"explanation":""
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "3",
+		"stem": {
+			"paragraph_1": "Cells grown in culture exhibit contact inhibition in which the cells will continue to divide until making contact with another cell. The signal that inhibits the cell cycle is mediated by which of the following proteins?"
+		},
+		"img": "",
+		"options": 
+			[
+			"Integrins",
+			"Connexin",
+			"Collagen",
+			"Cadherin"
+			],
+		"explanation":""
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "4",
+		"stem": {
+			"paragraph_1": "After damage to a tissue, fibroblasts crawl through the extracellular matrix to get to the site of damage. Which of the following proteins is critical for the motility of fibroblasts? "
+		},
+		"img": "",
+		"options": 
+			[
+			"Cadherins",
+			"Catenins",
+			"Integrins",
+			"Connexins"
+			],
+		"explanation": ""
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "5",
+		"stem": {
+			"paragraph_1": "Mutations in certain integrin genes lead to skin blistering diseases in which the epithelial cells separate from the underlying extracellular matrix under mild abrasion. A mutation in a gene encoding which of the following proteins would most likely produce a similar phenotype?"
+		},
+		"img": "",
+		"options": 
+			[
+			"Tubulin",
+			"Beta-Catenin",
+			"Actin",
+			"Keratin"
+			],
+		"explanation": ""
+		}
+	}
+
+],
+"date": "31 Aug 2016 10:00:00 GMT-400",
+"release_questions": "31 Aug 2016 9:30:00 GMT-400"
+}

@@ -1,0 +1,37 @@
+{
+"questions":  [
+	{"question": 
+		{
+		"number": "1",
+		"stem": "Study the diagram of the signaling pathway that allows a neutrophil to track a bacterium. You are a bacterium trying to escape from a neutrophil. Which of the following do you choose to produce?",
+		"img": "tbq_1.jpg",
+		"options": 
+			[
+			"Pertussis toxin",
+			"Chemical inhibitor of PI3 kinase",
+			"Chemical inhibitor of SHIP",
+			"Chemical activator of SHIP"
+			],
+		"explanation":""
+		}
+	},
+	{"question": 
+		{
+		"number": "2",
+		"slide": "",
+		"stem": "<p>Insulin decreases serum glucose levels by stimulating the uptake of glucose into primarily skeletal muscle cells and adipocytes. Insulin triggers a signal transduction pathway (outlined below) that increases the number of glucose transporters called GLUT4. At low concentration of insulin, GLUT4 is stored in intracellular vesicles. The insulin signal transduction pathway causes the vesicles to be transported to the cell membrane where fusion releases the GLUT4 into the cell membrane.</p><p>Resistance to insulin is a major component of type II diabetes and can manifest as the inability of muscle cells to move GLUT4 from vesicles to the cell membrane in the presence of insulin.</p><p>You are asked to develop a treatment that stimulates the insulin signal transduction pathway and increases GLUT4 in the cell membrane. Which of the therapies would you choose to pursue?</p> ",
+		"img": "tbq_2.jpg",
+		"options":
+			 [
+			 "Express a constitutively active insulin receptor",
+	         "Overexpress PI3 kinase",
+	         "Express a constitutively active Akt",
+	         "Express constitutively active Rab8A"
+			],
+		"explanation":""
+		}
+	}
+],
+"date": "15 Sep 2016 10:00:00 GMT-400",
+"release_questions": "15 Sep 2016 9:30:00 GMT-400"
+}

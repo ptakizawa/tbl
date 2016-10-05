@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type="text/css" href="../css/svg.css" ?> 
+<svg viewBox="0 0 1024 768" preserveAspectRatio="xMinYMin meet" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Meissner's Corpuscle</title>
+	<desc>A section of skin showing a Meissner's Corpuscle</desc>
+	<image xlink:href="images/meissners_corpuscle.jpg" width="100%" height="100%" />
+	<defs>
+		<marker id="markerCircle" markerWidth="16" markerHeight="16" refX="10" refY="10" markerUnits="userSpaceOnUse">
+        	<circle cx="10" cy="10" r="6" />
+    	</marker>
+		<marker id="markerArrow" markerWidth="13" markerHeight="13" refX="2" refY="6" markerUnits="userSpaceOnUse"
+           orient="auto">
+		   <path d="M2,2 L2,11 L10,6 L2,2" style="fill: #000000;" />
+    	</marker>
+	</defs>
+	<!-- Stratum Corneum-->
+	<text  x="10" y="115" style="font-size:2em; font-family:Verdana; font-weight:700; text-anchor: left;">Stratum Corneum</text>
+	<!-- Meissner's Corpuscle -->
+	<path class="marker-line" d="M265,215 L365,215" />
+	<text class="marker-text-right" x="370" y="215" style="font-size:2em; font-family:Verdana; font-weight:700;">Stratum Granulosum</text>
+	<!-- Stratum Spinosum-->
+	<text  x="708" y="115" style="font-size:2em; font-family:Verdana; font-weight:700; text-anchor: middle;">Stratum Spinosum</text>
+	<!-- Stratum Basale -->
+	<path class="marker-line" d="M545,350 L645,350" />
+	<text class="marker-text-right" x="650" y="350" style="font-size:2em; font-family:Verdana; font-weight:700;">Stratum Basale</text>
+	<!-- Meissner's Corpuscle -->
+	<path class="marker-line" d="M620,495 L520,495" />
+	<text class="marker-text-left" x="515" y="495" style="font-size:2em; font-family:Verdana; font-weight:700;">Meissner's Corpuscle</text>
+</svg>

@@ -1,0 +1,133 @@
+{
+	"questions": [
+	{
+		"question": {
+			"number": "1",
+			"stem": {
+				"paragraph_1": "A 39 year old lady complains of epigastric burning occurring several times a day  for the past 6 weeks. She has not had any previous complaints of this nature.  The burning is considerably diminished within 15 to 20 minutes after sucking on two Tums tablets.  She has been taking ibuprofen fairly regularly, mostly twice daily, sometimes more, for the past 4 months after she sustained a back injury after a bad fall playing tennis. She has no other significant past history. She was born and raised in the U.S.  Physical Examination is normal. Her CBC and serum electrolyte s are normal.",
+				"paragraph_2": "Which of the two treatment strategies you would suggest: "
+			},
+			"img": "",
+			"options": [
+				"Stop ibuprofen and do an EGD to help establish a diagnosis",
+				"Stop ibuprofen, check for H. pylori by a non invasive test and start patient on a PPI.  If H. pylori is positive, then treat to eradicate the organism.  Reevaluate in 4 weeks",
+				"Stop ibuprofen, place on a trial with a PPI for 4 weeks "
+			],
+			"explanation": ""
+		}
+
+ 
+
+	}, {
+		"question": {
+			"number": "2",
+			"stem": {
+				"paragraph_1": "A 43 year old Visiting Professor from China complains of epigastric aching pain of 2 months duration.  The pain improves with antacids or a glass of milk.  He denies any weight loss, vomiting or anorexia. He says he has never had these symptoms previously. He is not on aspirin or NSAIDs.  His physical examination is normal and his CBC shows that he is not anemic.",
+				"paragraph_2": "Which of the following three management strategies do you suggest in this 43 year old gentleman with no alarm symptoms, as the next line of management:"
+			},
+			"img": "",
+			"options": [
+				"Check for H. pylori by a non invasive test, (eradicate if positive), and try a PPI for 4 weeks and then reevaluate",
+				"Do the above, and also send off a fasting serum gastrin",
+				"Do an EGD right away"
+			],
+			"explanation": ""
+		}
+	}, {
+		"question": {
+			"number": "3",
+			"stem": {
+				"paragraph_1": "65 year old gentleman presents with non colicky upper abdominal pain, mostly in the epigastric region of 3 months duration.  Based on his Framingham score his Physician placed him baby aspirin 81 mg per day, 6 months ago, as prophylaxis against coronary heart disease. ",
+				"paragraph_2": "Endoscopy reveals the image below. From where would you take a biopsy?"
+			},
+			"img": "raq_1.jpg",
+			"options": [
+				"Obtain biopsies from the center of the ulcer",
+				"Obtain biopsies from the edge of the ulcer",
+				"btain biopsy of the ulcer from the center and from normal gastric mucosa",
+				"Obtain biopsies from the edge of the ulcer and from normal mucosa",
+				"Obtain biopsies only from the normal mucosa"
+			],
+			"explanation": ""
+		}
+	}, {
+		"question": {
+			"number": "4",
+			"stem": {
+				"paragraph_1": "A 34 year old lady presents with epigastric pain of a month's duration which occurs before meals, is relieved by eating until the pain recurs and hour or two after eating.  She has had two such episodes in the past which were treated with PPIs with relief, but the symptoms recurred some months after discontinuing PPIs.  She has not been on NSAIDs.",
+				"paragraph_2": "An endoscopy was done this time and the following was seen in the duodenal bulb. From where would you take a biopsy?"
+			},
+			"img": "raq_2.jpg",
+			"options": [
+				"Obtain biopsies from the center of the ulcer",
+				"Obtain biopsies from the edge of the ulcer",
+				"btain biopsy of the ulcer from the center and from normal gastric mucosa",
+				"Obtain biopsies from the edge of the ulcer and from normal mucosa",
+				"Obtain biopsies only from the normal mucosa"
+			],
+			"explanation": ""
+		}
+	}, {
+		"question": {
+			"number": "5",
+			"stem": {
+				"paragraph_1": "Examine the images of a biopsy",
+				"paragraph_2": "What is your diagnosis?"
+			},
+			"img": "raq_3.jpg",
+			"options": [
+			],
+			"explanation": ""
+		}
+	}, {
+		"question": {
+			"number": "6",
+			"stem": {
+				"paragraph_1": "A 62 year old lady complaining symptoms of dyspepsia for several months.  She had not improved with PPI therapy.  She had not lost weight, and had no other symptoms.  Finally an endoscopy was done after withholding PPI for  3 weeks in the event she had H. pylori and a false negative result might in that case ensue.",
+				"paragraph_2": "In her 20s, she had been treated for a peptic ulcer.  She did not think she was on NSAIDs or aspirin at the time.  She does not remember receiving antibiotics for her ulcer treatment.",
+				"paragraph_3": "At endoscopy, in the body of the stomach there was an area of erythema and erosions seen, one of which could be termed a shallow ulceration. This was biopsied (see below).",
+				"paragraph_4": "What is your diagnosis based on the biopsy specimen?",
+				"paragraph_5": "What tests would you do next and how would you treat the patient?" 
+			},
+			"img": "raq_4.jpg",
+			"options": [
+			],
+			"explanation": ""
+		}
+	}, {
+		"question": {
+			"number": "7",
+			"stem": {
+				"paragraph_1": "A patient was earlier prescribed Omeprazole (a PPI) for heartburn and had developed Stevens Johnson’s syndrome, which is a life threatening acute bullous dermatological complication. On another occasion he developed severe bradyarrythemia when prescribed Ranitidine (a H2 receptor antagonist.  He has now developed a duodenal ulcer from being on naproxen he took for osteoarthritis Which of the following options would be the most prudent to try to treat his ulcer with besides stopping the naproxen?"
+			},
+			"img": "",
+			"options": [
+				"Liquid antacids",
+				"Sucralfate",
+				"Try another PPI instead of Omeprazole",
+				"Peptobismol"
+			],
+			"explanation": ""
+		}
+	}, {
+		"question": {
+			"number": "8",
+			"stem": {
+				"paragraph_1": "Octreotide is a Somatostatin analog.  It is NOT indicated for the treatment of which ONE of the following:"
+			},
+			"img": "",
+			"options": [
+				"In the treatment of bleeding esophageal varices",
+				"Severe symptoms of vomiting in patients with gastroparesis",
+				"Treatment of carcinoid tumors",
+				"High output intestinal fistulae as an interim measure prior to surgical repair"
+			],
+			"explanation": ""
+		}
+	}    
+	],
+	"date": "4 Oct 2016 9:00:00 GMT-400",
+	"release_questions": "4 Oct 2016 8:30:00 GMT-400"
+}
+
+

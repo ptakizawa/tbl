@@ -1,0 +1,79 @@
+{
+"questions":  
+[
+	{
+	"question": 
+		{
+		"number": "1",
+		"stem": {
+			"paragraph_1": "The role of the thermostat in the cooling system is best described by which of the following?"
+		},
+		"img": "",
+		"options": 
+			[
+			"Control flow of coolant to heater core",
+			"Increase rate of flow of coolant",
+			"Regulate coolant pressure",
+			"Regulate coolant temperature"
+			],
+		"explanation":"The primary function of the thermostat is to regualte the temperature of the coolant. When the engine and coolant is cold, the thermostat closes to recycle the coolant to the engine block, causing it to heat rapidly. When the coolant reaches a minimum temperature, the thermostat open, sending coolant to the radiator where it decreases in temperature."
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "2",
+		"stem": {
+			"paragraph_1": "The radiator cap is primarily responsible for which of the following?"
+		},
+		"img": "",
+		"options": 
+			[
+			"Regulate coolant pressure",
+			"Regulate coolant temperature",
+			"Prevent coolant from solidifying at low temperatures",
+			"Increase flow of coolant"
+			],
+		"explanation":""
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "3",
+		"stem": {
+			"paragraph_1": "The radiator fan is primarily responsible for which of the following?"
+		},
+		"img": "",
+		"options": 
+			[
+			"Decreasing coolant temp when in motion",
+			"Decreasing coolant temp at idle",
+			"Increase coolant pressure",
+			"Increase flow of coolant"
+			],
+		"explanation":"The radiator fan blows air through the radiator dissipating the heat from the coolant. When the car is in motion air is forced across the radiator and the fan is not as important. When the car is at idle, the fan is the only source to move air through the radiator."
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "4",
+		"stem": {
+			"paragraph_1": "Over the course of the winter you notice your gas mileage progressively decreases. The most likely reason is which of the following?"
+		},
+		"img": "",
+		"options": 
+			[
+			"Faulty water pump",
+			"Faulty radiator fan",
+			"Faulty thermostat",
+			"Faulty radiator cap"
+			],
+		"explanation": ""
+		}
+	}
+],
+"date": "30 Aug 2016 11:00:00 GMT-400",
+"release_questions": "30 Aug 2016 10:30:00 GMT-400"
+}

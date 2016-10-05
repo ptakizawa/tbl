@@ -1,0 +1,108 @@
+{
+  "erythrocytes": {
+    "title": "Erythrocytes",
+    "annotations": {
+      "1": {
+        "title": "Erythrocyte",
+        "x": 560,
+        "y": 373,
+        "arrrow": "right"
+      },
+      "2": {
+        "title": "Central Concavity",
+        "x": 620,
+        "y": 553,
+        "arrow": "right"
+      }
+    }
+  },
+  "thrombocytes": {
+    "title": "Thrombocytes",
+    "annotations": {
+      "1": {
+         "title": "Thrombocyte",
+        "x-coordinate": 776,
+        "y-coordinate": 442,
+        "arrow": "right"
+      } 
+    }
+  },
+  "lymphocytes": {
+    "title": "Lymphocytes",
+    "annotations": {
+      "1": {
+        "title": "Large",
+        "x": 173,
+        "y": 375,
+        "arrow": "right"
+      },
+      "2": {
+        "title": "Small",
+        "x": 710,
+        "y": 384,
+        "arrow": "right"
+      }
+    }
+  },
+  "monocyte": {
+    "title": "Monocyte",
+    "annotations": {
+      "1": {
+        "title": "Indented Nucleus",
+        "x": 454,
+        "y": 384,
+        "arrow": "right"
+      }
+    }
+  },
+  "neutrophils": {
+    "title": "Neutrophils",
+    "annotations": {
+      "1": {
+        "title": "Multi-lobed Nucleus",
+        "x": 590,
+        "y": 339,
+        "arrow": "right"
+      },
+      "2": {
+        "title": "Lilac Granules",
+        "x": 665,
+        "y": 372,
+        "arrow": "left"
+      }
+    }
+  },
+  "eosinophil": {
+    "title": "Eosinophil",
+    "annotations": {
+      "1": {
+        "title": "Bi-lobed Nucleus",
+        "x": 415,
+        "y": 324,
+        "arrow": "right"
+      },
+      "2": {
+        "title": "Orange Granules",
+        "x": 535,
+        "y": 345,
+        "arrow": "left"
+      }
+    }
+  },
+  "basophil": {
+    "title": "Basophil",
+    "annotations": {
+      "label": {
+        "title": "Blue-Purple Granules",
+        "x": 481,
+        "y": 327,
+        "arrow": "right"
+      }
+    }
+  }
+}
+
+
+
+
+

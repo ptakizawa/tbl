@@ -1,0 +1,146 @@
+{
+	"questions": [
+	{
+		"question": {
+			"number": "1",
+			"stem": {
+				"paragraph_1": "A 55 year old gentleman with a history of previous abdominal surgeries, (appendectomy 30 years ago, major abdominal surgery after a motor vehicle accident 8 years ago), presents with colicky periumbilical abdominal pain of two days duration and this morning vomited the little breakfast he tried to eat. ",
+				"paragraph_2": "Physical Examination: The abdomen was moderately distended with tympany on percussion even over the flanks and bowel sounds occurring in gushes and with high pitched tinkles.",
+				"paragraph_3": " What is the most likely clinical diagnosis?"
+			},
+			"img": "",
+			"options": [
+				"Duodenal Ulcer",
+				"Small intestinal obstruction",
+				"Gastric ulcer",
+				"Gastric cancer"
+			],
+			"explanation": ""
+		}
+	}, {
+		"question": {
+			"number": "2",
+			"stem": {
+				"paragraph_1": "The case presented below is for questions 2 and 3.",
+				"paragraph_2": "A 28 year old gentleman, who immigrated from Guatemala a year and a half ago, complains of episodic abdominal pain of a month's duration.  He has had such episodes off and on over the past few years and while in Guatemala was told that he had an ulcer and was prescribed tablets that helped his pain, although after a lapse of a few months the pain would recur.",
+				"paragraph_3": "At his next visit he was able to find out by calling his parents in Guatemala, that the tablet that relieved his pain was Omeprazole, which is a proton pump inhibitor (PPI).",
+				"paragraph_4": "The patient was not taking any aspirin or NSAIDs either then or now. His appetite has been good, and he has not lost any weight.",
+				"paragraph_5": "Characteristics of the patient's abdomen pain:",
+				"list_1": [
+					"Location: In the epigastrium",
+					"Radiation: None",
+					"Character: A severe ache",
+					"Continuous or colikcy: Not colicky",
+					"Time of occurence and duration: Before meals or when hungry. Often awoked in the early hours of the morning",
+					"Aggravating factors: Hunger",
+					"Ameriolrating factors: Eating a meal.  If it occurred at other times, he would either drink some milk or eat whatever was available such as cookies, protein bars etc.",
+					"Physical examination: Very slight tenderness in the epigastrium.  Otherwise normal."
+				],
+				"paragraph_6": "The most likely cause of the patient's most recent episode of epigastric pain is:"
+			},
+			"img": "",
+			"options": [
+				"Peptic ulcer - duodenal or gastric",
+				"Gallbladder disease",
+				"Ischemic heart disease",
+				"Acute appendicitis"
+			],
+			"explanation": ""
+		}
+	}, {
+		"question": {
+			"number": "3",
+			"stem": {
+				"paragraph_1": "Why does the patient awaken frequently in the early hours on account of epigastric pain?"
+			},
+			"img": "",
+			"options": [
+				"The circadian rhythm of acid secretion is such that it peaks in the early hours, resulting in further injury to the ulcer",
+				"There is no food or liquid in the stomach other than gastric secretions and therefore nothing to 'buffer' the acid allowing free access of the acid on the ulcer",
+				"Serum gastrin peaks in the early hours of the morning resulting in acid secretion",
+				"The paired suprachiasmatic nuclei located at the base of the anterior hypothalamus that regulates circadian rhythm results in higher levels of glucocorticoid hormone secretion which is responsible for the patient's early morning pain"
+			],
+			"explanation": ""
+		}
+	}, {
+		"question": {
+			"number": "4",
+			"stem": {
+				"paragraph_1": "The neurons in the gastric mucosa that carry afferent nociceptive signals from chemical or thermal injury to the mucosal surface and resulting in marked vasodilatation of the microcirculation (i.e. Reactive Hyperemia) are:"
+			},
+			"img": "",
+			"options": [
+				"Preganglionic acetylcholine neurons",
+				"Nitrinergic neurons",
+				"Peptidergic neurons releasing VIP",
+				"Calcitonin gene related peptide neurons"
+			],
+			"explanation": ""
+		}
+	}, {
+		"question": {
+			"number": "5",
+			"stem": {
+				"paragraph_1": "The pivotal factor giving rise to the all important  pH gradient that exists in the gastric lumen from a pH that can be as low as 1.5 in the lumen to a pH of 5 at the surface of surface mucous cells is the result of:"
+			},
+			"img": "",
+			"options": [
+				"The secretion of MUC 5AC from the surface and pit mucous cells",
+				"The secretion of MUC6 from the cells in the gland and the mucous neck cells",
+				"Active bicarbonate secretion from the surface epithelial cells ",
+				"Trefoil peptides, TFF1 and TFF2"
+			],
+			"explanation": ""
+		}
+	}, {
+		"question": {
+			"number": "6",
+			"stem": {
+				"paragraph_1": "Which ONE of the following is NOT true with regard to bicarbonate secretion from the gastric mucosa:"
+			},
+			"img": "",
+			"options": [
+				"The parietal cell makes a substantial contribution to bicarbonate secretion",
+				"The mucus-bicarbonate layer is one factor that helps in mucosal protection",
+				"Bicarbonate secreted from the surface mucous cells neutralizes all of the acid secreted by parietal cells into the gastric lumen",
+				"H. pylori diminishes gastric HCO3- secretion, thus affecting the pH gradient between the lumen and surface of the surface epithelial mucous cells"
+			],
+			"explanation": ""
+		}
+	}, {
+		"question": {
+			"number": "7",
+			"stem": {
+				"paragraph_1": "Nitric oxide provides mucosal protection in multiple different ways, one of the important ones being by way of its effect on neutrophils.  This action is mediated largely by:"
+			},
+			"img": "",
+			"options": [
+				"Preventing the release of the very neutrophilic cytokine IL-8, during inflammation",
+				"Minimizing the attachment of neutrophils to the endothelium of the microcirculation of the gastric mucosa",
+				"Limiting the attachment of neutrophils to areas of mucosal injury",
+				"Indirectly by inhibiting the action of NO on mast cells, preventing release of mast cell mediators"
+			],
+			"explanation": ""
+		}
+	}, {
+		"question": {
+			"number": "8",
+			"stem": {
+				"paragraph_1": "Which ONE of the following is NOT a way by which Prostaglandins prevent ulcers from happening:"
+			},
+			"img": "",
+			"options": [
+				"Increases all three: mucus and bicarbonate secretion and surface hydrophobicity",
+				"Prevents the activation of neutrophils",
+				"Interferes with the translocation and fusion of cytoplasmic tubulovesicles with the apical plasma membrane",
+				"Protect the microcirculation"
+			],
+			"explanation": ""
+		}
+	}    
+	],
+	"date": "4 Oct 2016 9:00:00 GMT-400",
+	"release_questions": "4 Oct 2016 8:30:00 GMT-400"
+}
+
+

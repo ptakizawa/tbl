@@ -1,0 +1,6 @@
+*.jpg
+*.png
+*.tiff
+*.mp4
+
+venv/

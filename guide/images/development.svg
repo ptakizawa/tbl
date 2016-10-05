@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type="text/css" href="../css/svg.css" ?> 
+<svg viewBox="0 0 960 250" preserveAspectRatio="xMinYMin meet" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>TBL Components</title>
+	<defs>
+        <circle id="component-circle" cx="100" cy="100" r="100" style="fill:grey; stroke=black; stroke-width=3px;" />
+        <path id="arrow" d="M50,50
+	        								L79,50
+	        								L79,40
+	        								L98,60
+	        								L79,80
+	        								L79,70
+	        								L50,70
+	        								Z"
+	        								style="stroke: black; stroke-width:1px; fill:blue;" />
+	</defs>
+	<use xlink:href="#component-circle" x="0" y="10" />
+	<use xlink:href="#arrow" x="151" y="50" />
+	<a xlink:href="http://medcell.med.yale.edu/tbl-dev/tbl_development.php#learning-outcomes" target="_top">
+	<text x="100" y="100" style="color:white; text-anchor:middle; font-size:2em; fill:white;">Learning</text>
+	<text x="100" y="135" style="color:white; text-anchor:middle; font-size:2em; fill:white;">Outcomes</text>
+	</a>
+	
+	<use xlink:href="#component-circle" x="250" y="10" />
+	<use xlink:href="#arrow" x="401" y="50" />
+	<a xlink:href="http://medcell.med.yale.edu/tbl-dev/tbl_development.php#application-questions" target="_top">
+	<text x="350" y="100" style="color:white; text-anchor:middle; font-size:2em; fill:white;">Application</text>
+	<text x="350" y="135" style="color:white; text-anchor:middle; font-size:2em; fill:white;">Questions</text>
+	</a>
+	
+	<use xlink:href="#component-circle" x="500" y="10" />
+	<use xlink:href="#arrow" x="651" y="50" />
+	<a xlink:href="http://medcell.med.yale.edu/tbl-dev/tbl_development.php#pre-session-material" target="_top">
+	<text x="600" y="100" style="color:white; text-anchor:middle; font-size:2em; fill:white;">Pre-Session</text>
+	<text x="600" y="135" style="color:white; text-anchor:middle; font-size:2em; fill:white;">Material</text>
+	</a>
+	
+	<use xlink:href="#component-circle" x="750" y="10" />
+	<a xlink:href="http://medcell.med.yale.edu/tbl-dev/tbl_development.php#readiness-assessment-questions" target="_top">
+	<text x="850" y="85" style="color:white; text-anchor:middle; font-size:2em; fill:white;">Readiness</text>
+	<text x="850" y="120" style="color:white; text-anchor:middle; font-size:2em; fill:white;">Assessment</text>
+	<text x="850" y="155" style="color:white; text-anchor:middle; font-size:2em; fill:white;">Questions</text>
+	</a>
+
+
+</svg>

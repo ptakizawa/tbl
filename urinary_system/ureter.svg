@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="1024" height="768" viewBox="0, 0, 1024, 768">
+<title>Ureter</title>
+	<desc>A cross section of the ureter</desc>
+	<image xlink:href="images/ureter.jpg" width="100%" height="100%" />
+  <g id="Image">
+    <path d="M602.121,451 L750.5,438.5" fill-opacity="0" stroke="#2F8A0D" stroke-width="4"/>
+    <text transform="matrix(1, 0, 0, 1, 835.061, 439.5)">
+      <tspan x="-82.939" y="-5.5" font-family="Verdana-Bold" font-size="24" fill="#010101">Transitional </tspan>
+      <tspan x="-82.939" y="23.5" font-family="Verdana-Bold" font-size="24" fill="#010101">Epithelium</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 910.061, 77)">
+      <tspan x="-82.939" y="-20" font-family="Verdana-Bold" font-size="24" fill="#010101">Circular </tspan>
+      <tspan x="-82.939" y="9" font-family="Verdana-Bold" font-size="24" fill="#010101">smooth </tspan>
+      <tspan x="-82.939" y="38" font-family="Verdana-Bold" font-size="24" fill="#010101">muscle</tspan>
+    </text>
+    <path d="M697.121,83.75 L822.5,77.5" fill-opacity="0" stroke="#2F8A0D" stroke-width="4"/>
+    <text transform="matrix(1, 0, 0, 1, 891.061, 185)">
+      <tspan x="-85.939" y="-20" font-family="Verdana-Bold" font-size="24" fill="#010101">Longitudinal </tspan>
+      <tspan x="-85.939" y="9" font-family="Verdana-Bold" font-size="24" fill="#010101">smooth </tspan>
+      <tspan x="-85.939" y="38" font-family="Verdana-Bold" font-size="24" fill="#010101">muscle</tspan>
+    </text>
+    <path d="M675.121,191.5 L800.5,185.25" fill-opacity="0" stroke="#2F8A0D" stroke-width="4"/>
+  </g>
+</svg>

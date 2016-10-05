@@ -1,0 +1,125 @@
+.yale-jumbotron {
+	background-color: #337ab7;
+	color: white;
+}
+
+figcaption {
+	text-decoration: underline;
+	margin-bottom: 20px;
+}
+
+img {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+video {
+	margin:auto;
+	width: 98%;
+	max-width: 620px;
+	display: block;
+}
+
+#video-toolbar {
+	margin:auto;
+	width: 98%;
+	max-width: 620px;
+	display: block;
+}
+
+
+.tbq-toggle {
+	color: #3a24ce;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+
+.hidden {
+	visibility: hidden;
+}
+
+.hidden:last {
+	margin-bottom: 50px;
+}
+
+.blog-post {
+	font-size: 17px;
+	line-height: 1.5;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.blog-post h2, h3, h4 {
+	font-weight: 300;
+}
+
+.blog-image {
+	position: relative;
+	margin: 50px 0px 50px 0px;
+}
+
+.image-title {
+	position: absolute;
+	background-color: white;
+	font-size: 18px;
+	font-weight: 500;
+	padding: 5px;
+	top: 0px;
+	left: 0px;
+}
+
+.label {
+	background-color: white;
+	border: 1px solid black;
+	border-radius: 4px;
+	color: black;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 5px;
+	position: absolute;
+}
+
+.right-arrow {
+	background-image: url("../images/right_arrow.png");
+	position: absolute;
+	width: 83px;
+	height: 13px;
+}
+
+.left-arrow {
+	background-image: url("../images/left_arrow.png");
+	position: absolute;
+	width: 83px;
+	height: 13px;
+}
+
+.arrow-left {
+	position: absolute;
+	width: 0; 
+	height: 0; 
+	border-top: 10px solid transparent;
+	border-bottom: 10px solid transparent; 
+	
+	border-right:10px solid black; 
+}
+
+.arrow-right {
+	position: absolute;
+	width: 0; 
+	height: 0; 
+	border-top: 1em solid transparent;
+	border-bottom: 1em solid transparent; 
+	
+	border-left:1em solid black; 
+}
+
+.arrow-stem {
+	position: absolute;
+	background-color: black;
+	display: block;
+	width:5%;
+	height:4px;
+	border-bottom: 4px solid black;
+}
+

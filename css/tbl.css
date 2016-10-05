@@ -1,0 +1,33 @@
+.distractor, .answer {
+	cursor: pointer;
+	line-height: 2em;
+}
+
+.hidden {
+	visibility: hidden;
+}
+
+.question {
+	margin-top: 40px;
+}
+
+.integrated-questions {
+	margin-left: 40px;
+}
+
+.explanation {
+	margin-bottom: 20px;
+	border: 1px solid black;
+	padding: 10px;
+}
+
+.question ul {
+	margin-bottom: 10px;
+}
+
+.blog-callout {
+	border: 1px solid black;
+	width: 80%;
+	margin: 40px auto 40px auto;
+	padding: 20px;
+}

@@ -1,0 +1,21 @@
+{
+	"questions": [
+	{
+		"question": {
+			"number": "1",
+			"stem": {
+				"paragraph_1": "Which of the following statements is most accurate for a patient with the smear below?"
+			},
+			"img": "tbq_1.jpg",
+			"options": [
+				"This patient should start chemotherapy immediately.",
+				"Testing for the JAK2 V617F mutation in this patient's case will be positive.",
+				"This patient could have prostate cancer."
+			],
+			"explanation": ""
+		}
+	}
+	],
+	"date": "25 Oct 2016 10:00:00 GMT-400",
+	"release_questions": "25 Oct 2016 9:30:00 GMT-400"
+}

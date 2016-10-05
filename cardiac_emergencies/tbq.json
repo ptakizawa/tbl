@@ -1,0 +1,37 @@
+{
+"questions":  [
+	{"question": 
+		{
+		"number": "1",
+		"stem": "Disease and infection often cause death or damage to cells and compromise the function of tissues. You are working on a project to repair epithelial tissue in the lung. You would like to use stem cells to replace the damaged cells in the airways of the lung. After isolating stem cells, you have the opportunity to engineer the cells to express a specific member from one of the families of proteins listed below. Which family of protein would you choose?",
+		"img": "",
+		"options": 
+			[
+			"Cadherin",
+			"Connexin",
+			"Integrin",
+			"Catenin"
+			],
+		"explanation":""
+		}
+	},
+	{"question": 
+		{
+		"number": "2",
+		"slide": "",
+		"stem": "In cancer, metastasis arises when cells in a localized tumor leave the tumor, enter the blood stream or lymph and initiate a tumor in a different organ or tissue. You are working on a project to identify cells in tumors that show signs of becoming metastatic. In your analysis, you can measure one of the cellular events listed below. Which event would you choose?",
+		"img": "",
+		"options":
+			 [
+			 "Change in the amount of cadherin",
+	         "Change in the amount of integrin",
+	         "Change in the type of cadherin",
+	         "Change in the type of integrin"
+			],
+		"explanation":"The cell is dividing. Note the condensed DNA and lack of nuclear envelope (no clear border around the nucleus). This indicates that the cell is in mitosis."
+		}
+	}
+],
+"date": "31 Aug 2016 10:00:00 GMT-400",
+"release_questions": "31 Aug 2016 9:30:00 GMT-400"
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type="text/css" href="../css/svg.css" ?> 
+<svg viewBox="0 0 1024 768" preserveAspectRatio="xMinYMin meet" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Thymus Cortex</title>
+	<desc>A cross section of thymus cortex stained by H&amp;E</desc>
+	<image xlink:href="images/thymus_cortex.jpg" width="100%" height="100%" />
+	<defs>
+		<marker id="markerCircle" markerWidth="16" markerHeight="16" refX="10" refY="10" markerUnits="userSpaceOnUse">
+        	<circle cx="10" cy="10" r="6" />
+    	</marker>
+    	<marker id="markerCircleWhite" markerWidth="16" markerHeight="16" refX="10" refY="10" markerUnits="userSpaceOnUse">
+        	<circle cx="10" cy="10" r="6" />
+    	</marker>
+		<marker id="markerArrow" markerWidth="26" markerHeight="26" refX="2" refY="13" markerUnits="userSpaceOnUse"
+           orient="auto">
+		   <path d="M2,2 L2,24 L20,13 L2,2" style="fill: #000000;" />
+    	</marker>
+	</defs>
+	<!-- Mitotic Cell -->
+	<path class="marker-line" d="M773,261 L673,261" style="stroke:white;" />
+	<text class="marker-text-right" x="778" y="261" style="fill:white;">Mitotic Cell</text>
+	<!-- Cortical Epithelial Cell -->
+	<path class="marker-line" d="M551,547 L451,547" style="stroke:white;" />
+	<text class="marker-text-right" x="556" y="547" style="fill:white;">Cortical Epithelial Cell</text>
+	
+</svg>
+<!--a13, 11 0 0,0 13,11-->

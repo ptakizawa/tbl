@@ -1,0 +1,115 @@
+{
+"questions":  
+[
+	{
+	"question": 
+		{
+		"number": "1",
+		"stem": {
+			"paragraph_1": "Many colorectal cancers have mutations which inactivate the signal transduction pathway that is stimulated by bone morphogenetic proteins (BMPs). Which of the following proteins would most likely be expressed by the BMP pathway?"
+		},
+		"img": "",
+		"options": 
+			[
+			"Cdc25",
+			"E2F1",
+			"Ink4",
+			"Cyclin D"
+			],
+		"explanation":""
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "2",
+		"stem": {
+			"paragraph_1": "Tyrosine-kinase inhibitors are used to treat many types of cancer. These inhibitors would most likely arrest cells in which stage of the cell cycle?"
+		},
+		"img": "",
+		"options": 
+			[
+			"G1",
+			"S",
+			"G2",
+			"Mitosis"
+			],
+		"explanation":""
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "3",
+		"stem": {
+			"paragraph_1": "Paclitaxel is a drug used to treat a variety of cancers. Paclitaxel binds tubulin and prevents disassembly and rearrangement of microtubules. Which stage of the cell cycle is most strongly affected by paclitaxel?"
+		},
+		"img": "",
+		"options": 
+			[
+			"G1",
+			"S",
+			"Mitosis",
+			"Cytokinesis"
+			],
+		"explanation":""
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "4",
+		"stem": {
+			"paragraph_1": "Human papillomavirus (HPV) encodes a protein, E7, that can bind and inactivate retinoblastoma proteins (pRb). Which of the following would most likely be associated with HPV infection?"
+		},
+		"img": "",
+		"options": 
+			[
+			"Decreased expression of cyclin E",
+			"Increased expression of cyclin E",
+			"Decreased expression of Cdk2",
+			"Increased expression of Cdk2"
+			],
+		"explanation": ""
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "5",
+		"stem": {
+			"paragraph_1": "Cetuximab is an antagonist for the epidermal growth factor receptor (EGFR) and is used to treat metastatic colon cancer. Studies have found that some patients taking cetuximab do not survive longer than those who took a placebo. These patients most likely have a mutation in which gene?"
+		},
+		"img": "",
+		"options": 
+			[
+			"RAS",
+			"Cyclin D",
+			"Retinoblastoma",
+			"INK4"
+			],
+		"explanation": ""
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "6",
+		"stem": {
+			"paragraph_1": "The kinase Akt can activate the transcription of cyclin D. Akt is activated when the concentration of phosphatidylinositol-3-phosphate (PIP3) in the cell membrane increases. PTEN converts PIP3 to PIP2. Which of the following best reflects the role of PTEN?"
+		},
+		"img": "",
+		"options": 
+			[
+			"It creates a positive feedback loop",
+			"It creates a negative feedback loop",
+			"It is an oncogene",
+			"It is a tumor suppressor"
+			],
+		"explanation": ""
+		}
+	}
+],
+"date": "28 Sep 2016 13:00:00 GMT-400",
+"release_questions": "28 Sep 2016 12:30:00 GMT-400"
+}

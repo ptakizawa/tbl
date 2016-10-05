@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="1024" height="768" viewBox="0, 0, 1024, 768">
+<title>Glomerular Filtration Barrier</title>
+	<desc>An electron micrograph showing the filtration barrier</desc>
+	<image xlink:href="images/filtration_barrier.jpg" width="100%" height="100%" />
+  <g id="Image">
+    <path d="M691.621,130.5 L738.5,130.5" fill-opacity="0" stroke="#2F8A0D" stroke-width="4"/>
+    <text transform="matrix(1, 0, 0, 1, 827.439, 130)">
+      <tspan x="-89.439" y="8" font-family="Verdana-Bold" font-size="24" fill="#010101">Foot process</tspan>
+    </text>
+    <path d="M677.742,277.5 L724.621,277.5" fill-opacity="0" stroke="#2F8A0D" stroke-width="4"/>
+    <text transform="matrix(1, 0, 0, 1, 867.061, 278)">
+      <tspan x="-142.939" y="7" font-family="Verdana-Bold" font-size="24" fill="#010101">Basement Membrane</tspan>
+    </text>
+    <path d="M660.561,233.5 L707.439,233.5" fill-opacity="0" stroke="#2F8A0D" stroke-width="4"/>
+    <text transform="matrix(1, 0, 0, 1, 809.379, 234)">
+      <tspan x="-102.439" y="7" font-family="Verdana-Bold" font-size="24" fill="#010101">Slit Diaphragm</tspan>
+    </text>
+    <path d="M665.5,346.5 L702.621,323.5" fill-opacity="0" stroke="#2F8A0D" stroke-width="4"/>
+    <text transform="matrix(1, 0, 0, 1, 595.061, 346)">
+      <tspan x="-69.939" y="7" font-family="Verdana-Bold" font-size="24" fill="#010101">Fenestrae</tspan>
+    </text>
+    <path d="M541.379,274.5 L608.5,257.5" fill-opacity="0" stroke="#2F8A0D" stroke-width="4"/>
+    <text transform="matrix(1, 0, 0, 1, 434.939, 274)">
+      <tspan x="-103.939" y="7" font-family="Verdana-Bold" font-size="24" fill="#010101">Endothelial cell</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 391.561, 363)">
+      <tspan x="-39.439" y="7" font-family="Verdana-Bold" font-size="24" fill="#010101">Blood</tspan>
+    </text>
+  </g>
+</svg>

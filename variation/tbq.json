@@ -1,0 +1,37 @@
+{
+"questions":  [
+	{"question": 
+		{
+		"number": "1",
+		"stem": "The table below lists the results of blood type evaluation of 50 men and 50 women. What is the probability that an individual selected at random from the group has type O blood or is a man?",
+		"img": "tbq_1.png",
+		"options": 
+			[
+			"0.2",
+			"0.35",
+			"0.5",
+			"0.7"
+			],
+		"explanation":""
+		}
+	},
+	{"question": 
+		{
+		"number": "2",
+		"slide": "",
+		"stem": "Data on RBC cholinesterase were collected from a healthy population. The data revealed that RBC cholinesterase had a mean of 11 &micro;mol/min/ml. What is the probability that an individual randomly selected from the population will have an RBC cholinesterase value between 11.95 and 13.95 &micro;mol/min/ml?",
+		"img": "tbq_2.png",
+		"options":
+			 [
+			 "0.2462",
+	         "0.3156",
+	         "0.6844",
+	         "0.9306"
+			],
+		"explanation":""
+		}
+	}
+],
+"date": "6 Oct 2016 10:00:00 GMT-400",
+"release_questions": "6 Oct 2016 9:30:00 GMT-400"
+}

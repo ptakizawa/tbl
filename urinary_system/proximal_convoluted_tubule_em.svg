@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="1024" height="768" viewBox="0, 0, 1024, 768">
+<title>Proximal Convoluted Tubule</title>
+	<desc>An electron micrograph of the proximal convoluted tubule</desc>
+	<image xlink:href="images/proximal_convoluted_tubule_em.jpg" width="100%" height="100%" />
+  <g id="Image">
+    <path d="M517.742,83.5 L564.621,83.5" fill-opacity="0" stroke="#2F8A0D" stroke-width="4"/>
+    <text transform="matrix(1, 0, 0, 1, 629.561, 83)">
+      <tspan x="-65.439" y="8" font-family="Verdana-Bold" font-size="24" fill="#010101">Microvilli</tspan>
+    </text>
+    <path d="M488.742,270.5 L535.621,270.5" fill-opacity="0" stroke="#2F8A0D" stroke-width="4"/>
+    <text transform="matrix(1, 0, 0, 1, 626.061, 269)">
+      <tspan x="-90.939" y="9" font-family="Verdana-Bold" font-size="24" fill="#FFF9F9">Mitochondria</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 803.561, 525.5)">
+      <tspan x="-65.439" y="-5.5" font-family="Verdana-Bold" font-size="24" fill="#FFFFFF">Basal </tspan>
+      <tspan x="-65.439" y="23.5" font-family="Verdana-Bold" font-size="24" fill="#FFFFFF">striations</tspan>
+    </text>
+    <path d="M852.621,526 L908.5,506.5" fill-opacity="0" stroke="#2F8A0D" stroke-width="4"/>
+  </g>
+</svg>

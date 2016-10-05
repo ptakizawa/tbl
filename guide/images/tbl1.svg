@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="1024" height="500" viewBox="0, 0, 1024, 500">
+  <g id="Layer_1">
+    <text transform="matrix(1, 0, 0, 1, 151.135, 171)">
+      <tspan x="-103.712" y="7" font-family="HelveticaNeue" font-size="28" fill="#055404">Content Delivery</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 476.865, 168.75)">
+      <tspan x="-145.474" y="9.5" font-family="HelveticaNeue" font-size="28" fill="#055404">Readiness Assessment</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 846.865, 168.75)">
+      <tspan x="-137.438" y="9.25" font-family="HelveticaNeue" font-size="28" fill="#055404">Application Questions</tspan>
+    </text>
+    <path d="M299.365,85.5 L299.365,467.5" fill-opacity="0" stroke="#000000" stroke-width="3" stroke-dasharray="18,15"/>
+    <text transform="matrix(1, 0, 0, 1, 148.865, 111)">
+      <tspan x="-74.29" y="10.5" font-family="HelveticaNeue" font-size="34" fill="#000000">Pre-Class</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 652.379, 111)">
+      <tspan x="-62.645" y="10.5" font-family="HelveticaNeue" font-size="34" fill="#000000">In-Class</tspan>
+    </text>
+    <g>
+      <g>
+        <path d="M36.435,206.5 L266.835,206.5 C273.904,206.5 279.635,212.192 279.635,219.213 L279.635,300.787 C279.635,307.808 273.904,313.5 266.835,313.5 L36.435,313.5 C29.366,313.5 23.635,307.808 23.635,300.787 L23.635,219.213 C23.635,212.192 29.366,206.5 36.435,206.5 z" fill="#FFFFFF"/>
+        <path d="M36.435,206.5 L266.835,206.5 C273.904,206.5 279.635,212.192 279.635,219.213 L279.635,300.787 C279.635,307.808 273.904,313.5 266.835,313.5 L36.435,313.5 C29.366,313.5 23.635,307.808 23.635,300.787 L23.635,219.213 C23.635,212.192 29.366,206.5 36.435,206.5 z" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 152.559, 259.5)">
+        <tspan x="-115.424" y="-26" font-family="HelveticaNeue-Bold" font-size="17" fill="#000000">Purpose: </tspan>
+        <tspan x="-38.278" y="-26" font-family="HelveticaNeue" font-size="17" fill="#000000">Students acquire </tspan>
+        <tspan x="-115.424" y="-6" font-family="HelveticaNeue" font-size="17" fill="#000000">knowledge that will allow </tspan>
+        <tspan x="-115.424" y="14" font-family="HelveticaNeue" font-size="17" fill="#000000">them to answer the </tspan>
+        <tspan x="-115.424" y="35" font-family="HelveticaNeue" font-size="17" fill="#000000">application questions</tspan>
+        <tspan x="46.739" y="35" font-family="HelveticaNeue-Bold" font-size="17" fill="#000000">. </tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M338.765,206.5 L615.965,206.5 C624.47,206.5 631.365,212.192 631.365,219.213 L631.365,300.787 C631.365,307.808 624.47,313.5 615.965,313.5 L338.765,313.5 C330.26,313.5 323.365,307.808 323.365,300.787 L323.365,219.213 C323.365,212.192 330.26,206.5 338.765,206.5 z" fill="#FFFFFF"/>
+        <path d="M338.765,206.5 L615.965,206.5 C624.47,206.5 631.365,212.192 631.365,219.213 L631.365,300.787 C631.365,307.808 624.47,313.5 615.965,313.5 L338.765,313.5 C330.26,313.5 323.365,307.808 323.365,300.787 L323.365,219.213 C323.365,212.192 330.26,206.5 338.765,206.5 z" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 478.578, 259.5)">
+        <tspan x="-138.87" y="-26" font-family="HelveticaNeue-Bold" font-size="17" fill="#000000">Purpose: </tspan>
+        <tspan x="-61.724" y="-26" font-family="HelveticaNeue" font-size="17" fill="#000000">Assess students' </tspan>
+        <tspan x="-138.87" y="-6" font-family="HelveticaNeue" font-size="17" fill="#000000">understanding of the pre-class </tspan>
+        <tspan x="-138.87" y="14" font-family="HelveticaNeue" font-size="17" fill="#000000">content and readiness to answer the </tspan>
+        <tspan x="-138.87" y="34" font-family="HelveticaNeue" font-size="17" fill="#000000">application questions.</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M36.435,334.5 L266.835,334.5 C273.904,334.5 279.635,341.096 279.635,349.233 L279.635,443.767 C279.635,451.904 273.904,458.5 266.835,458.5 L36.435,458.5 C29.366,458.5 23.635,451.904 23.635,443.767 L23.635,349.233 C23.635,341.096 29.366,334.5 36.435,334.5 z" fill="#FFFFFF"/>
+        <path d="M36.435,334.5 L266.835,334.5 C273.904,334.5 279.635,341.096 279.635,349.233 L279.635,443.767 C279.635,451.904 273.904,458.5 266.835,458.5 L36.435,458.5 C29.366,458.5 23.635,451.904 23.635,443.767 L23.635,349.233 C23.635,341.096 29.366,334.5 36.435,334.5 z" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 152.559, 395.5)">
+        <tspan x="-115.424" y="-34" font-family="HelveticaNeue-Bold" font-size="17" fill="#000000">Format: </tspan>
+        <tspan x="-47.747" y="-34" font-family="HelveticaNeue" font-size="17" fill="#000000">Content can be </tspan>
+        <tspan x="-115.424" y="-14" font-family="HelveticaNeue" font-size="17" fill="#000000">delivered by video lecture, </tspan>
+        <tspan x="-115.424" y="6" font-family="HelveticaNeue" font-size="17" fill="#000000">reading or website. Students </tspan>
+        <tspan x="-115.424" y="26" font-family="HelveticaNeue" font-size="17" fill="#000000">complete before coming to </tspan>
+        <tspan x="-115.424" y="46" font-family="HelveticaNeue" font-size="17" fill="#000000">class.</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M338.765,334.5 L615.965,334.5 C624.47,334.5 631.365,341.096 631.365,349.233 L631.365,443.767 C631.365,451.904 624.47,458.5 615.965,458.5 L338.765,458.5 C330.26,458.5 323.365,451.904 323.365,443.767 L323.365,349.233 C323.365,341.096 330.26,334.5 338.765,334.5 z" fill="#FFFFFF"/>
+        <path d="M338.765,334.5 L615.965,334.5 C624.47,334.5 631.365,341.096 631.365,349.233 L631.365,443.767 C631.365,451.904 624.47,458.5 615.965,458.5 L338.765,458.5 C330.26,458.5 323.365,451.904 323.365,443.767 L323.365,349.233 C323.365,341.096 330.26,334.5 338.765,334.5 z" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 477.156, 387.5)">
+        <tspan x="-140.291" y="-26" font-family="HelveticaNeue-Bold" font-size="17" fill="#000000">Format: </tspan>
+        <tspan x="-72.614" y="-26" font-family="HelveticaNeue" font-size="17" fill="#000000">Multiple-choice questions </tspan>
+        <tspan x="-140.291" y="-6" font-family="HelveticaNeue" font-size="17" fill="#000000">are strongly preferred. Students first </tspan>
+        <tspan x="-140.291" y="14" font-family="HelveticaNeue" font-size="17" fill="#000000">take quiz as individuals and then as </tspan>
+        <tspan x="-140.291" y="34" font-family="HelveticaNeue" font-size="17" fill="#000000">a team.</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M708.765,206.5 L985.965,206.5 C994.47,206.5 1001.365,212.192 1001.365,219.213 L1001.365,300.787 C1001.365,307.808 994.47,313.5 985.965,313.5 L708.765,313.5 C700.26,313.5 693.365,307.808 693.365,300.787 L693.365,219.213 C693.365,212.192 700.26,206.5 708.765,206.5 z" fill="#FFFFFF"/>
+        <path d="M708.765,206.5 L985.965,206.5 C994.47,206.5 1001.365,212.192 1001.365,219.213 L1001.365,300.787 C1001.365,307.808 994.47,313.5 985.965,313.5 L708.765,313.5 C700.26,313.5 693.365,307.808 693.365,300.787 L693.365,219.213 C693.365,212.192 700.26,206.5 708.765,206.5 z" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 848.578, 259.5)">
+        <tspan x="-138.87" y="-26" font-family="HelveticaNeue-Bold" font-size="17" fill="#000000">Purpose: </tspan>
+        <tspan x="-61.724" y="-26" font-family="HelveticaNeue" font-size="17" fill="#000000">Allow students to apply </tspan>
+        <tspan x="-138.87" y="-6" font-family="HelveticaNeue" font-size="17" fill="#000000">the content they have learned to </tspan>
+        <tspan x="-138.87" y="14" font-family="HelveticaNeue" font-size="17" fill="#000000">solve real-world problems.</tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <path d="M708.765,334.5 L985.965,334.5 C994.47,334.5 1001.365,341.096 1001.365,349.233 L1001.365,443.767 C1001.365,451.904 994.47,458.5 985.965,458.5 L708.765,458.5 C700.26,458.5 693.365,451.904 693.365,443.767 L693.365,349.233 C693.365,341.096 700.26,334.5 708.765,334.5 z" fill="#FFFFFF"/>
+        <path d="M708.765,334.5 L985.965,334.5 C994.47,334.5 1001.365,341.096 1001.365,349.233 L1001.365,443.767 C1001.365,451.904 994.47,458.5 985.965,458.5 L708.765,458.5 C700.26,458.5 693.365,451.904 693.365,443.767 L693.365,349.233 C693.365,341.096 700.26,334.5 708.765,334.5 z" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 847.156, 395.5)">
+        <tspan x="-140.291" y="-34" font-family="HelveticaNeue-Bold" font-size="17" fill="#000000">Format: </tspan>
+        <tspan x="-72.614" y="-34" font-family="HelveticaNeue" font-size="17" fill="#000000">Students work in teams to </tspan>
+        <tspan x="-140.291" y="-14" font-family="HelveticaNeue" font-size="17" fill="#000000">answer complex questions. A </tspan>
+        <tspan x="-140.291" y="6" font-family="HelveticaNeue" font-size="17" fill="#000000">discussion between teams allows </tspan>
+        <tspan x="-140.291" y="26" font-family="HelveticaNeue" font-size="17" fill="#000000">students to explain their rationale for </tspan>
+        <tspan x="-140.291" y="46" font-family="HelveticaNeue" font-size="17" fill="#000000">selecting a particular answer.</tspan>
+      </text>
+    </g>
+    <text transform="matrix(1, 0, 0, 1, 512, 33.833)">
+      <tspan x="-271.345" y="13" font-family="HelveticaNeue-Medium" font-size="36" fill="#000000">A Team-Based Learning Session</tspan>
+    </text>
+    <path d="M23.635,55.167 L1001.365,55.167" fill-opacity="0" stroke="#8A8484" stroke-width="1"/>
+  </g>
+</svg>

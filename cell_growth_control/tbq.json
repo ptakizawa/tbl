@@ -1,0 +1,37 @@
+{
+"questions":  [
+	{"question": 
+		{
+		"number": "1",
+		"stem": "For your thesis research project you plan to study metastatic cancer using an animal model. Recalling that RAS is mutated in many cancers, you engineer a mouse whose stomach epithelial cells express on mutated copy of RAS that inhibits the GTPase activity of the protein. Histologic analysis of tissue from the genetically engineered mouse reveals several small tumors in the stomach but little signs of large turmos or metastasis. As the deadline to submit your thesis approches, you consider which step you could quickly perform to generate large tumors and metastasis in the mice. Which of the following steps would you choose?",
+		"img": "",
+		"options": 
+			[
+			"Mutate the second RAS gene to inhibit its GTPase activity",
+			"Mutate the MAP Kinase gene to a constitutively active form",
+			"Delete one copy of INK4",
+			"Delete both copies of INK4"
+			],
+		"explanation":""
+		}
+	},
+	{"question": 
+		{
+		"number": "2",
+		"slide": "",
+		"stem": "<p>Radiation therapy is common treatment for many types of cancer because ionizing radiation damages DNA and can cause apoptosis. You would like to increase the effectiveness by which radiation therapy kills cancer cells. You decide to develop a small molecule that inhibits the activty of one of the proteins listed below. Which protein do you choose to target?</p> ",
+		"img": "",
+		"options":
+			 [
+			 "p53",
+	         "Wee1",
+	         "Ras",
+	         "Cyclin D"
+			],
+		"explanation":""
+		}
+	}
+],
+"date": "28 Sep 2016 13:00:00 GMT-400",
+"release_questions": "28 Sep 2016 12:30:00 GMT-400"
+}

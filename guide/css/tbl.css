@@ -1,0 +1,61 @@
+.sub-heading {
+	width: 80%;
+	margin: auto;
+	font-size: 1.2em;
+}
+.distractor, .answer {
+	cursor: pointer;
+	line-height: 2em;
+}
+
+.hidden {
+	visibility: hidden;
+}
+
+.question {
+	margin-top: 40px;
+}
+
+.integrated-questions {
+	margin-left: 40px;
+}
+
+.explanation {
+	margin-bottom: 20px;
+	border: 1px solid black;
+	padding: 10px;
+}
+
+.question ul {
+	margin-bottom: 10px;
+}
+
+caption {
+	text-decoration: underline;
+}
+
+figure img {
+	margin-top: 0px;
+}
+
+.additional-content {
+	
+}
+
+.reveal-additional-content {
+	cursor: pointer;
+	color: #337ab7;
+}
+a.svg {
+  position: relative;
+  display: inline-block;
+}
+
+a.svg:after {
+  content: ""; 
+  position: absolute; 
+  top: 0; 
+  right: 0; 
+  bottom: 0; 
+  left: 0;
+}

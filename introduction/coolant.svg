@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="1300" height="650" viewBox="0, 0, 1300, 650">
+  <defs>
+    <linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="145.167" y1="226.5" x2="880.167" y2="226.5">
+      <stop offset="0" stop-color="#271D89"/>
+      <stop offset="1" stop-color="#9C1F1F"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1">
+    <g>
+      <path d="M291.167,130 L755.167,130 L755.167,167 L291.167,167 L291.167,130 z" fill="#2D4873"/>
+      <path d="M755.167,130 L987.167,130 L987.167,167 L755.167,167 L755.167,130 z" fill="#B0C3E0"/>
+      <path d="M59.167,130 L291.167,130 L291.167,167 L59.167,167 L59.167,130 z" fill="#031A3E"/>
+      <text transform="matrix(1, 0, 0, 1, 165.599, 148.5)">
+        <tspan x="-28.644" y="8" font-family="HelveticaNeue-Bold" font-size="24" fill="#EEEBEB">Solid</tspan>
+      </text>
+      <text transform="matrix(1, 0, 0, 1, 504.735, 148.5)">
+        <tspan x="-35.088" y="8" font-family="HelveticaNeue-Bold" font-size="24" fill="#EEEBEB">Liquid</tspan>
+      </text>
+      <text transform="matrix(1, 0, 0, 1, 871.167, 148.5)">
+        <tspan x="-22.44" y="8" font-family="HelveticaNeue-Bold" font-size="24" fill="#EEEBEB">Gas</tspan>
+      </text>
+      <path d="M291.667,77.5 L291.667,288.5" fill-opacity="0" stroke="#000000" stroke-width="2"/>
+      <path d="M755.667,77.5 L755.667,288.5" fill-opacity="0" stroke="#000000" stroke-width="2"/>
+      <path d="M145.167,208 L880.167,208 L880.167,245 L145.167,245 L145.167,208 z" fill="url(#Gradient_1)"/>
+      <path d="M145.167,288 L880.167,288 L880.167,325 L145.167,325 L145.167,288 z" fill="#2D4873"/>
+      <path d="M880.167,288 L987.167,288 L987.167,325 L880.167,325 L880.167,288 z" fill="#B0C3E0"/>
+      <path d="M59.167,288 L145.167,288 L145.167,325 L59.167,325 L59.167,288 z" fill="#031A3E"/>
+      <text transform="matrix(1, 0, 0, 1, 291.167, 62.5)">
+        <tspan x="-26.904" y="8.5" font-family="HelveticaNeue-Bold" font-size="24" fill="#444242">32˚ F</tspan>
+      </text>
+      <text transform="matrix(1, 0, 0, 1, 756.763, 62.5)">
+        <tspan x="-33.576" y="8.5" font-family="HelveticaNeue-Bold" font-size="24" fill="#444242">212˚ F</tspan>
+      </text>
+      <text transform="matrix(1, 0, 0, 1, 880.167, 387.5)">
+        <tspan x="-33.576" y="8.5" font-family="HelveticaNeue-Bold" font-size="24" fill="#444242">250˚ F</tspan>
+      </text>
+      <path d="M880.667,208.5 L880.667,373.5" fill-opacity="0" stroke="#000000" stroke-width="2"/>
+      <text transform="matrix(1, 0, 0, 1, 1046.385, 148.5)">
+        <tspan x="-33.552" y="8.5" font-family="HelveticaNeue-Bold" font-size="24" fill="#444242">Water</tspan>
+      </text>
+      <text transform="matrix(1, 0, 0, 1, 1125.281, 307.833)">
+        <tspan x="-118.219" y="-9.833" font-family="HelveticaNeue-Bold" font-size="24" fill="#444242">50% Water/</tspan>
+        <tspan x="-118.219" y="19.167" font-family="HelveticaNeue-Bold" font-size="24" fill="#444242">50% Ethylene Glycol</tspan>
+      </text>
+      <path d="M145.667,208.5 L145.667,373.5" fill-opacity="0" stroke="#000000" stroke-width="2"/>
+      <text transform="matrix(1, 0, 0, 1, 523.167, 226.5)">
+        <tspan x="-73.752" y="6.5" font-family="HelveticaNeue-Bold" font-size="24" fill="#FFF9F9">Engine Temp</tspan>
+      </text>
+      <text transform="matrix(1, 0, 0, 1, 504.735, 308)">
+        <tspan x="-35.088" y="8" font-family="HelveticaNeue-Bold" font-size="24" fill="#EEEBEB">Liquid</tspan>
+      </text>
+      <text transform="matrix(1, 0, 0, 1, 145.167, 387.5)">
+        <tspan x="-35.124" y="8.5" font-family="HelveticaNeue-Bold" font-size="24" fill="#444242">- 40˚ F</tspan>
+      </text>
+    </g>
+    <g>
+      <path d="M152.567,415.167 L291.1,415.167" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+      <path d="M152.567,415.167 L144.167,415.167 M144.167,408.167 L144.167,422.167" fill-opacity="0" stroke="#000000" stroke-width="3" stroke-opacity="1"/>
+      <path d="M291.1,415.167 L299.5,415.167 M299.5,422.167 L299.5,408.167" fill-opacity="0" stroke="#000000" stroke-width="3" stroke-opacity="1"/>
+    </g>
+    <text transform="matrix(1, 0, 0, 1, 230.781, 473.5)">
+      <tspan x="-89.552" y="-20.5" font-family="HelveticaNeue-Bold" font-size="24" fill="#444242">Ethylene glycol </tspan>
+      <tspan x="-89.552" y="8.5" font-family="HelveticaNeue-Bold" font-size="24" fill="#444242">lowers freezing </tspan>
+      <tspan x="-89.552" y="37.5" font-family="HelveticaNeue-Bold" font-size="24" fill="#444242">point of water</tspan>
+    </text>
+    <g>
+      <path d="M764.567,427.5 L872.767,427.5" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+      <path d="M764.567,427.5 L756.167,427.5 M756.167,420.5 L756.167,434.5" fill-opacity="0" stroke="#000000" stroke-width="3" stroke-opacity="1"/>
+      <path d="M872.767,427.5 L881.167,427.5 M881.167,434.5 L881.167,420.5" fill-opacity="0" stroke="#000000" stroke-width="3" stroke-opacity="1"/>
+    </g>
+    <text transform="matrix(1, 0, 0, 1, 863.781, 487.667)">
+      <tspan x="-112.885" y="-23.667" font-family="HelveticaNeue-Bold" font-size="24" fill="#444242">High pressure </tspan>
+      <tspan x="-112.885" y="5.333" font-family="HelveticaNeue-Bold" font-size="24" fill="#444242">increases boiling </tspan>
+      <tspan x="-112.885" y="34.333" font-family="HelveticaNeue-Bold" font-size="24" fill="#444242">point of water</tspan>
+    </text>
+  </g>
+</svg>

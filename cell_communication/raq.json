@@ -1,0 +1,133 @@
+{
+"questions":  
+[
+	{
+	"question": 
+		{
+		"number": "1",
+		"stem": {
+			"paragraph_1": "You discover a receptor that forms a high affinity interaction with its ligand. In which of the following types of cell communication is the receptor most likely involved?"
+			},
+		"img": "",
+		"options": 
+			[
+			"Paracrine",
+			"Endocrine",
+			"Neurotransmission",
+			"Direct cell-to-cell contact"
+			],
+		"explanation":""
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "2",
+		"stem": {
+			"paragraph_1": "Which of the following receptors would generate the fastest cellular response?"
+		},
+		"img": "",
+		"options": 
+			[
+			"Steroid receptor",
+			"Receptor tyrosine kinase",
+			"Ligand-gated ion channel",
+			"Seven transmembrane receptor"
+			],
+		"explanation":""
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "3",
+		"stem": {
+			"paragraph_1": "In a signaling pathway that utilizes a heterotrimeric GTP-binding protein which of the following components could activate a downstream pathway?"
+		},
+		"img": "",
+		"options": 
+			[
+			"G<sub>&alpha;</sub>-GDP",
+			"G<sub>&alpha;&beta;&gamma;</sub>",
+			"G<sub>&beta;&gamma;</sub>",
+			"G<sub>&beta;</sub>"
+			],
+		"explanation":""
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "4",
+		"stem": {
+			"paragraph_1": "Which of the following is the best example of negative feedback?"
+		},
+		"img": "",
+		"options": 
+			[
+			"Protein kinase A activates phosphodiesterase",
+			"MAP kinase activates a guanine-nucleotide exchange factor for Ras",
+			"Protein kinase C activates phospholipase C",
+			"MAP kinase kinase phosphorylates receptor tyrosine kinase"
+			],
+		"explanation": ""
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "5",
+		"stem": {
+			"paragraph_1": "Cholera toxin adds an ADP-ribose to G<sub>&alpha;</sub> and inhibits it catalytic activity. Which of the following is the most likely effect of cholera toxin?"
+		},
+		"img": "",
+		"options": 
+			[
+			"Increased concentration of cAMP",
+			"Decreased concentration of cAMP",
+			"Increased concentration of Ras-GTP",
+			"Decreased concentration of Ras-GTP"
+			],
+		"explanation": ""
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "6",
+		"stem": {
+			"paragraph_1": "Which of the following would you expect <b>not</b> to associate with the cytosolic domain of a receptor tyrosine kinase?"
+		},
+		"img": "",
+		"options": 
+			[
+			"Phospholipase C",
+			"G<sub>&alpha;</sub>",
+			"PI3 kinase",
+			"Guanine nucleotide exchange factor"
+			],
+		"explanation": ""
+		}
+	},
+	{
+	"question": 
+		{
+		"number": "7",
+		"stem": {
+			"paragraph_1": "You discover a domain in phospholipase C that resembles a GTPase-activating protein. The most likely effect of this  domain is which of the following?"
+		},
+		"img": "",
+		"options": 
+			[
+			"Increase amount of active phospholipase C",
+			"Increase amount of G<sub>&beta;&gamma;</sub>",
+			"Decrease amount of Ras-GTP",
+			"Decrease amount of G<sub>&alpha;</sub>-GTP"
+			],
+		"explanation": ""
+		}
+	}
+],
+"date": "15 Sep 2016 10:00:00 GMT-400",
+"release_questions": "15 Sep 2016 9:30:00 GMT-400"
+}

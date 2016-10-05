@@ -1,0 +1,35 @@
+{
+	"questions": [
+	{
+		"question": {
+			"number": "1",
+			"stem": {
+				"paragraph_1": "A 30 year-old man develops profound diarrhea after returning back to Connecticut from a summer trip with his family. During his time away, he visited several countries in South America and ate a number of native, uncooked foods. Which of the following blood smears is most likely his?"
+			},
+			"img": "raq_1.jpg",
+			"options": [
+				"Panel A",
+				"Panel B",
+				"Panel C"
+			],
+			"explanation": "The constellation of diarrhea, recent travel abroad, and consumption of raw foods that could have been contaminated suggests the possibility of a parasitic infection, which would give rise to eosinophilia (Panel A). Panel B shows microangiopathy as would be seen in thrombotic thrombocytopenic purpura. Panel C shows thrombocytosis, which can be primary or reactive."
+		}
+	}, {
+		"question": {
+			"number": "2",
+			"stem": {
+				"paragraph_1": "A 60 year-old man has the following blood smear."
+			},
+			"img": "raq_2.jpg",
+			"options": [
+				"Antibiotics",
+				"Imatinib",
+				"Observation"
+			],
+			"explanation": "The blood smear shows a number of granulocytes at different stages of maturation, including mature neutrophils, bands, and myelocytes, along with basophils and early erythroid forms, consistent with chronic myeloid leukemia. Imatinib is the proper therapy."
+		}
+	} 	
+	],
+	"date": "25 Oct 2016 10:00:00 GMT-400",
+	"release_questions": "25 Oct 2016 9:30:00 GMT-400"
+}

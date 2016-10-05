@@ -1,0 +1,35 @@
+{
+	"questions": [
+	{
+		"question": {
+			"number": "1",
+			"stem": {
+				"paragraph_1": "An 83 year-old female presents to the emergency department with fever and profound fatigue. Physical examination reveals hepatosplenomegaly and prominent lymphadenopathy in the cervical, supraclavicular, and axillary regions. CBC reveals profound lymphocytosis. A bone marrow biopsy is done, which reveals acute lymphoblastic leukemia. Which smear would best fit her presentation?"
+			},
+			"img": "raq_1.jpg",
+			"options": [
+				"Panel A",
+				"Panel B",
+				"Panel C"
+			],
+			"explanation": "The top smear shows a number of large cells with high nuclear:cytoplasm ratio, some prominent nucleoli, and hand mirror cells, often a sign of lymphoid malignancies and often of unfavorable prognostic significance."
+		}
+	}, {
+		"question": {
+			"number": "2",
+			"stem": {
+				"paragraph_1": "A 75 year-old man is referred to a hematologist for a new diagnosis of aggressive B cell lymphoma. An excisional lymph node biopsy (in which the entire lymph node is removed) is performed that confirms the diagnosis. Which histology below best depicts what his lymph node should look like?"
+			},
+			"img": "raq_2.jpg",
+			"options": [
+				"Panel A",
+				"Panel B",
+				"Observation"
+			],
+			"explanation": "The bottom photo shows a normal lymph node, with discrete germinal centers. The top photo shows a lymph node that is without organization, as would be expected for a lymphoma."
+		}
+	} 	
+	],
+	"date": "27 Oct 2016 9:00:00 GMT-400",
+	"release_questions": "27 Oct 2016 8:30:00 GMT-400"
+}

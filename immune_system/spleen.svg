@@ -1,0 +1,34 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type="text/css" href="../css/svg.css" ?> 
+<svg viewBox="0 0 1024 768" preserveAspectRatio="xMinYMin meet" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Thymus - Cross Section</title>
+	<desc>A cross section of thymus stained by H&amp;E</desc>
+	<image xlink:href="images/spleen.jpg" width="100%" height="100%" />
+	<defs>
+		<marker id="markerCircle" markerWidth="16" markerHeight="16" refX="10" refY="10" markerUnits="userSpaceOnUse">
+        	<circle cx="10" cy="10" r="6" />
+    	</marker>
+		<marker id="markerArrow" markerWidth="13" markerHeight="13" refX="2" refY="6" markerUnits="userSpaceOnUse"
+           orient="auto">
+		   <path d="M2,2 L2,11 L10,6 L2,2" style="fill: #000000;" />
+    	</marker>
+	</defs>
+	<!-- Capsule Label -->
+	<path class="marker-line" d="M870,718 L770,718" />
+	<text class="marker-text-right" x="875" y="718">Capsule</text>
+	<!-- Trabeculae Label -->
+	<path class="marker-line" d="M742,642 L842,642" />
+	<text class="marker-text-left" x="737" y="642">Trabeculae</text>
+	<!-- White Pulp Label -->
+	<circle class="marker-circle" cx="501" cy="560" r="48" />
+	<path class="marker-line" d="M649,560 L549,560" />
+	<text class="marker-text-right" x="654" y="560">White Pulp</text>
+	<!-- Red Pulp Label -->
+	<path class="marker-line" d="M301,565 L401,565" />
+	<text class="marker-text-left" x="296" y="565">Red Pulp</text>
+	<!-- Trabeclar Artery -->
+	<path class="marker-line" d="M517,119 L417,119" />
+	<text class="marker-text-right" x="522" y="119">Trabecular Artery</text>
+
+
+</svg>
