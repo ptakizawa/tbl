@@ -5,13 +5,13 @@
    <?php include '../includes/header.inc.php'; ?>
 	<div class="container-fluid">
 	        <div class="col-xs-12">
-	         	<h1>Introduction to Biostatistics Application Questions</h1>
-			 	 <div class="col-xs-8">
-			        <div class="tbq">
-				        <h2>Questions</h2>
-				        <ol class="questions"></ol>
-			        </div>
-		        </div>
+	         	<h1>Transfusion Sickle Cell Application Questions</h1>
+	         	<p></p>
+	         		<div class="tbq">
+	         			<h2>Questions</h2>
+	         			
+	         			<ol class="questions"></ol>
+	         		</div>
 	        </div><!-- /.col-xs-12-->
 	    </div><!-- /.container -->
 <?php include '../includes/scripts.inc.php'; ?>

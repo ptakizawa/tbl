@@ -1,0 +1,109 @@
+{
+"questions": [
+	{
+	"question": 
+		{
+		"number": "1",
+		"stem": {
+			"paragraph_1": "A 16-year old man experienced swollen lips while eating cookies containing peanut butter. A month later, while eating the same type of cookies, he started to vomit, became hoarse, had great difficulty breathing, started to wheeze and developed a swollen face. He was taken immediately to the emergency room where he lost consciousness. The patient’s pulse and respiration are high and his blood pressure is catastrophically low. An anaphylactic reaction is suspected.",
+			"paragraph_2": "What immediate action should be taken?"
+		}
+		"img": "",
+		"options": 
+			[
+			"Administer epinephrine intramuscularly.",
+			"Administer intravenous saline.",
+			"Administer Benadryl (antihistamine) intravenously.",
+			"Administer Methylprednisolone (corticosteroid) intravenously."
+			],
+		"explanation":""
+		}
+	}, {
+		"question": 
+		{
+		"number": "2",
+		"slide": "",
+		"stem": {
+			"paragraph_1": "Epinephrine is a β2-adrenergic agent. How does it help in the treatment of anaphylaxis?"
+		}
+		"img": "",
+		"options":
+			 [
+			 "It slows the rate of electric pulses to the heart.",
+			"It slows the muscle contractions of the diaphragm.",
+			"It relaxes the small blood vessels.",
+			"It relaxes the bronchi."
+			],
+		"explanation":""
+		}
+	}, {
+		"question": 
+		{
+		"number": "3",
+		"slide": "",
+		"stem": {
+			"paragraph_1": "A 40 year old woman receives a kidney transplant and immediately following the procedure is given cyclosporine A, which impairs T cell NFAT signaling, and a seven day course of polyclonal IgG anti-thymocyte globulin (ATG), which is derived from the serum of rabbits immunized with human thymocytes and contains antibodies that recognize a variety of molecules on T cells. Ten days later, she develops rash affecting the trunk and extremities, but sparing the mucous membranes of the mouth and genital tract; spiking fever to 101.3&deg; F (38.5&deg; C); and pain on movement of the joints including her jaw, metacarpophalangeal joints, wrists, shoulders, knees, and ankles.",
+			"paragraph_2": "What is the most likely mechanism of her rash and joint pain?"
+		}
+		"img": "",
+		"options":
+			 [
+			 "Destruction of T cells residing in the skin and joint spaces.",
+			"Immune complex formation of rabbit ATG and anti-ATG, leading to complement activation.",
+			"Immediate hypersensitivity to rabbit dander proteins.",
+			"Hemorrhage into the skin and joints."
+			],
+		"explanation":""
+		}
+	}
+
+],
+"date": "18 Jan 2017 10:00:00 GMT-400",
+"release_questions": "18 Jan 2017 9:30:00 GMT-400"
+}
+
+				<br />
+			<hr>
+			<div class = "tbq-toggle"><h4><span class="open-state">Open</span> case two</h4></div>
+				<div class = "tbq hidden">
+					<h4>Case 2</h4>
+					"A 40 year old woman receives a kidney transplant and immediately following the procedure is given cyclosporine A, which impairs T cell NFAT signaling, and a seven day course of polyclonal IgG anti-thymocyte globulin (ATG), which is derived from the serum of rabbits immunized with human thymocytes and contains antibodies that recognize a variety of molecules on T cells. Ten days later, she develops rash affecting the trunk and extremities, but sparing the mucous membranes of the mouth and genital tract; spiking fever to 101.3&deg; F (38.5&deg; C); and pain on movement of the joints including her jaw, metacarpophalangeal joints, wrists, shoulders, knees, and ankles.",
+					<div class = "tbq-toggle"><h4><span class="open-state">Open</span> question three</h4></div>
+					<div class = "tbq hidden">
+						<h4>Question Three</h4>
+						"What is the most likely mechanism of her rash and joint pain?",
+						<ol type="A">
+							"Destruction of T cells residing in the skin and joint spaces.",
+							"Immune complex formation of rabbit ATG and anti-ATG, leading to complement activation.",
+							"Immediate hypersensitivity to rabbit dander proteins.",
+							"Hemorrhage into the skin and joints.",
+						</ol>
+					</div>
+					<br />
+					<div class = "tbq-toggle"><h4><span class="open-state">Open</span> question four</h4></div>
+					<div class = "tbq hidden">
+						<h4>Question Four</h4>
+						"What type of response is anti-thymocyte globulin employing in its therapeutic mechanism?",
+						<ol type="A">
+							"Induction of regulatory T cells for tolerance of the transplant.",
+							"Destruction of T cells in the transplant recipient in the manner of type 2 hypersensitivity.",
+							"Destruction of passenger lymphocytes within the transplanted kidney in the manner of type 2 hypersensitivity.",
+							"Destruction of the patient’s thymus to prevent future rejection of the kidney.",
+						</ol>
+					</div>
+					<br />
+					<hr>
+				</div>
+				<br />
+				<hr>
+				<div class = "tbq-toggle"><h4><span class="open-state">Open</span> case three</h4></div>
+				<div class = "tbq hidden">
+					<h4>Case 3</h4>
+					"A 19-year old medical student goes to student health for a two-step tuberculin test as part of their health certification to train in the local hospital. The test is positive.",
+					<h4>Question Five</h4>
+					"What conclusions can be made from the outcome of this test?",
+					<ol type="A">
+						"If the student is currently infected with M. tuberculosis.",
+						"If the student was ever exposed to M. tuberculosis.",
+						"If the student has T cells that recognize antigens from M. tuberculosis.",
+						"If the student has antibodies that recognize antigens from M. tuberculosis.",

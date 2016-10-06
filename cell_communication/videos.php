@@ -18,12 +18,12 @@
 		          <li>Students should be able to describe how cells turn off activated signaling pathways</li>
 				</ul>
         
-			<video src="videos/cell_communication_1.mp4" controls></video>
+			<video src="../videos/cell_communication/cell_communication_1.mp4" controls></video>
 			<div id="video-toolbar"><input type="button" id="video-faster" value="Faster" /><input type="button" id="video-slower" value="Slower" /><span class="video-speed">Speed = 1x</span></div>
 			
 			<br />
 			
-			<video src="videos/cell_communication_2.mp4" controls></video>
+			<video src="../videos/cell_communication/cell_communication_2.mp4" controls></video>
 			<div id="video-toolbar"><input type="button" id="video-faster" value="Faster" /><input type="button" id="video-slower" value="Slower" /><span class="video-speed">Speed = 1x</span></div>
 		         </div><!-- /.blog-post -->
 	       </div><!-- /.col-xs-12-->

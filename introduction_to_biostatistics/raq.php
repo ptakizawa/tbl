@@ -54,7 +54,7 @@
 			         		<br />
 			         			
 			         		<p>A study was conducted to evaluate myocardial infarction as confirmed by the cardiologist and as diagnosed based on electro cardio gram (ECG). Use the following table 1 to answer questions 6 through 9.</p>
-			         		<img class="img-responsive" src="images/raq_1.png">
+			         		<img class="img-responsive" src="../images/introduction_to_biostatistics/raq_1.png">
 			         		
 			         		<li class="question">The sensitivity of ECG test is which of the following?</li>
 			         			<ol class="question-options" type="A">

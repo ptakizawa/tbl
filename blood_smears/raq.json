@@ -5,7 +5,7 @@
 			"stem": {
 				"paragraph_1": "Identify the cell"
 			},
-			"img": "raq_1.jpg",
+			"img": "../images/blood_smears/raq_1.jpg",
 			"options": [
 				"Lymphocyte",
 				"Monocyte",
@@ -20,7 +20,7 @@
 			"stem": {
 				"paragraph_1": "Name a condition in which these cells will be elevated."
 			},
-			"img": "raq_2.jpg",
+			"img": "../images/blood_smears/raq_2.jpg",
 			"options": [
 				"Bacterial infection",
 				"Viral infection",
@@ -35,7 +35,7 @@
 			"stem": {
 				"paragraph_1": "Which of the following components is/are found in the dark, blue granules in the cell in the center of the image?"
 			},
-			"img": "raq_3.jpg",
+			"img": "../images/blood_smears/raq_3.jpg",
 			"options": [
 				"Histamine",
 				"Acid hydrolases",
@@ -50,7 +50,7 @@
 			"stem": {
 				"paragraph_1": "Identify the cell with a nucleus."
 			},
-			"img": "raq_4.jpg",
+			"img": "../images/blood_smears/raq_4.jpg",
 			"options": [
 				"Monocyte",
 				"Basophil",
@@ -65,7 +65,7 @@
 			"stem": {
 				"paragraph_1": "Under which condition would you expect to see an increased number of these cells?"
 			},
-			"img": "raq_5.jpg",
+			"img": "../images/blood_smears/raq_5.jpg",
 			"options": [
 				"Bacterial infection",
 				"Viral infection",
@@ -80,7 +80,7 @@
 			"stem": {
 				"paragraph_1": "What is the expected MCV for the CBC below?"
 			},
-			"img": "raq_6.jpg",
+			"img": "../images/blood_smears/raq_6.jpg",
 			"options": [
 				"&lt; 80 fL",
 				"80 - 100 fL",
@@ -94,7 +94,7 @@
 			"stem": {
 				"paragraph_1": "What is the expected RDW for the CBC below?"
 			},
-			"img": "raq_7.jpg",
+			"img": "../images/blood_smears/raq_7.jpg",
 			"options": [
 				"&lt; 15%",
 				"&gt; 15%"

@@ -6,7 +6,7 @@
 			"stem": {
 				"paragraph_1": "A 30 year-old man develops profound diarrhea after returning back to Connecticut from a summer trip with his family. During his time away, he visited several countries in South America and ate a number of native, uncooked foods. Which of the following blood smears is most likely his?"
 			},
-			"img": "raq_1.jpg",
+			"img": "../images/myeloid_cells/raq_1.jpg",
 			"options": [
 				"Panel A",
 				"Panel B",
@@ -20,7 +20,7 @@
 			"stem": {
 				"paragraph_1": "A 60 year-old man has the following blood smear."
 			},
-			"img": "raq_2.jpg",
+			"img": "../images/myeloid_cells/raq_2.jpg",
 			"options": [
 				"Antibiotics",
 				"Imatinib",

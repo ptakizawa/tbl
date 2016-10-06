@@ -1,10 +1,13 @@
 {
 "questions":  [
-	{"question": 
+	{
+	"question": 
 		{
 		"number": "1",
-		"stem": "Study the diagram of the signaling pathway that allows a neutrophil to track a bacterium. You are a bacterium trying to escape from a neutrophil. Which of the following do you choose to produce?",
-		"img": "tbq_1.jpg",
+		"stem": {
+			"paragraph_1": "Study the diagram of the signaling pathway that allows a neutrophil to track a bacterium. You are a bacterium trying to escape from a neutrophil. Which of the following do you choose to produce?"
+		},
+		"img": "../images/cell_communication/tbq_1.jpg",
 		"options": 
 			[
 			"Antagonist to receptor",
@@ -15,12 +18,17 @@
 		"explanation":""
 		}
 	},
-	{"question": 
+	{
+	"question": 
 		{
 		"number": "2",
 		"slide": "",
-		"stem": "<p>Insulin decreases serum glucose levels by stimulating the uptake of glucose into primarily skeletal muscle cells and adipocytes. Insulin triggers a signal transduction pathway (outlined below) that increases the number of glucose transporters called GLUT4. At low concentration of insulin, GLUT4 is stored in intracellular vesicles. The insulin signal transduction pathway causes the vesicles to be transported to the cell membrane where fusion releases the GLUT4 into the cell membrane.</p><p>Resistance to insulin is a major component of type II diabetes and can manifest as the inability of muscle cells to move GLUT4 from vesicles to the cell membrane in the presence of insulin.</p><p>You are asked to develop a treatment that stimulates the insulin signal transduction pathway and increases GLUT4 in the cell membrane. Which of the therapies would you choose to pursue?</p> ",
-		"img": "tbq_2.jpg",
+		"stem": {
+			"paragraph_1": "Insulin decreases serum glucose levels by stimulating the uptake of glucose into primarily skeletal muscle cells and adipocytes. Insulin triggers a signal transduction pathway (outlined below) that increases the number of glucose transporters called GLUT4. At low concentration of insulin, GLUT4 is stored in intracellular vesicles. The insulin signal transduction pathway causes the vesicles to be transported to the cell membrane where fusion releases the GLUT4 into the cell membrane.",
+			"paragraph_2": "Resistance to insulin is a major component of type II diabetes and can manifest as the inability of muscle cells to move GLUT4 from vesicles to the cell membrane in the presence of insulin.",
+			"paragraph_3": "You are asked to develop a treatment that stimulates the insulin signal transduction pathway and increases GLUT4 in the cell membrane. Which of the therapies would you choose to pursue?"
+		},
+		"img": "../images/cell_communication/tbq_2.jpg",
 		"options":
 			 [
 			 "Express a constitutively active insulin receptor",

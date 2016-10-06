@@ -15,7 +15,7 @@
 						<p>The patient had been getting screening colonoscopies at appropriate intervals since the age of 50. She had never had a colonic polyp detected and her last colonoscopy was only a few months previously.  The preparation of the colon was reported to have been excellent enabling a thorough examination of the colon and once again no lesion was identified.</p>
 						<h3>Physical Exam</h3>
 						<p>Other than pallor and glossitis (a smooth  furrowed tongue with loss of papillae)  the examination was normal.</p>
-						<img class="img-responseive" src="images/tbq_1.jpg">
+						<img class="img-responseive" src="../images/gastritis_and_peptic_ulcer_disease/tbq_1.jpg">
 						<br />
 						<h3>Blood Tests - CBC</h3>
 						<ul>
@@ -28,7 +28,7 @@
 						<p>Normal ranges for Caucasian women are shown in parenthesis</p>
 						
 						<h3>Blood Smear</h3>
-						<img class="img-responseive" src="images/tbq_2.jpg">
+						<img class="img-responseive" src="../images/gastritis_and_peptic_ulcer_disease/tbq_2.jpg">
 						<br />
 						<p>Based on the History, Physical Examination, CBC and the blood smear, the patient's Primary Physician put all the pieces of the puzzle together, and ordered a few other appropriate blood tests.</p>
 						<p>Then, because the daughter mentioned that her mother was not eating well, had lost appetite (anorexia) and head lost 10 lbs in weight he sent the patient to a Gastroenterologist for consideration of an Esophago-Gastro-Duodenoscopy (EGD).</p>
@@ -37,10 +37,10 @@
 						<p>What were the other blood tests that the physician ordered</p>
 						
 						<h3>Endoscopy</h3>
-						<img class="img-responseive" src="images/tbq_3.jpg">
+						<img class="img-responseive" src="../images/gastritis_and_peptic_ulcer_disease/tbq_3.jpg">
 						<br />
 						<h3>Endoscopic Biopsy</h3>
-						<img class="img-responseive" src="images/tbq_4.jpg">
+						<img class="img-responseive" src="../images/gastritis_and_peptic_ulcer_disease/tbq_4.jpg">
 
 			        </div>
 		        </div>

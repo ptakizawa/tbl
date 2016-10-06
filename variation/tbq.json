@@ -3,8 +3,10 @@
 	{"question": 
 		{
 		"number": "1",
-		"stem": "The table below lists the results of blood type evaluation of 50 men and 50 women. What is the probability that an individual selected at random from the group has type O blood or is a man?",
-		"img": "tbq_1.png",
+		"stem": {
+			"paragraph_1": "The table below lists the results of blood type evaluation of 50 men and 50 women. What is the probability that an individual selected at random from the group has type O blood or is a man?"
+		},
+		"img": "../images/variation/tbq_1.png",
 		"options": 
 			[
 			"0.2",
@@ -19,8 +21,10 @@
 		{
 		"number": "2",
 		"slide": "",
-		"stem": "Data on RBC cholinesterase were collected from a healthy population. The data revealed that RBC cholinesterase had a mean of 11 &micro;mol/min/ml. What is the probability that an individual randomly selected from the population will have an RBC cholinesterase value between 11.95 and 13.95 &micro;mol/min/ml?",
-		"img": "tbq_2.png",
+		"stem": {
+			"paragraph_1": "Data on RBC cholinesterase were collected from a healthy population. The data revealed that RBC cholinesterase had a mean of 11 &micro;mol/min/ml and a standard deviation of 2 &micro;mol/min/ml. What is the probability that an individual randomly selected from the population will have an RBC cholinesterase value between 11.95 and 13.95 &micro;mol/min/ml?"
+		},
+		"img": "../images/variation/tbq_2.png",
 		"options":
 			 [
 			 "0.2462",

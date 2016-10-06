@@ -1,0 +1,126 @@
+{
+	"questions": [{
+		"question": {
+			"number": "1",
+			"stem": {
+				"paragraph_1": "Why are autoimmune hemolytic anemias considered Type II hypersensitivity reactions"
+			},
+			"img": "",
+			"options": [
+				"They involve IgE mediated attack on red blood cells.",
+				"Circulating immune complexes are formed between released hemoglobin and IgG antibodies.",
+				"Antibodies bound to red blood cells leads to their destruction.",
+				"They involve destruction of red blood cells by cytotoxic T cells."
+			],
+			"explanation": ""
+		}
+	}, {
+		"question": {
+			"number": "2",
+			"stem": {
+				"paragraph_1": "A 19-year-old man is rushed to your emergency department from a local seafood restaurant. He is pale, cool, and clammy and has a low blood pressure. There is no medic-alert bracelet to be seen. You find he has wheezes throughout his lung fields, with poor air intake. His sister, who is with him, says this has never happened before, and no one in the family has ever been like this. What is the most likely cause for this reaction?"
+			},
+			"img": "",
+			"options": [
+				"Anaphylaxis",
+				"Lung tumor",
+				"Crohn disease",
+				"Asthma"
+			],
+			"explanation": ""
+		}
+	}, {
+		"question": {
+			"number": "3",
+			"stem": {
+				"paragraph_1": "Which of following mechanisms explains the rapid response to antigen that is observed in Type I immediate hypersensitivity reactions?"
+			},
+			"img": "",
+			"options": [
+				"They involve rapid class switching of B cells to IgE without the need for T cell help.",
+	 			"The circulating levels of free IgE is very high in atopic individuals.",
+	 			"IgE antibodies are already bound by FceRI on the mast cells.",
+	 			"After antigen binds to circulating IgE, it is rapidly trapped by splenic macrophages."
+			],
+			"explanation": ""
+		}
+	}, {
+		"question": {
+			"number": "4",
+			"stem": {
+				"paragraph_1": "A patient comes to your office complaining of a severe rash. The rash consists of many raised, red, elongate, itchy, and slightly oozing blisters on his hands and face. He tells you that the rash developed a day or so after he had been on a hike in the woods. You determine that he has developed poison ivy, a hypersensitivity reaction that involves which of the following?"
+			},
+			"img": "",
+			"options": [
+				"Production of IgE antibodies against the poison ivy happen.",
+				"Activated macrophages and cytotoxic T cells.",
+				"Dendritic cell-mediated destruction of modified self cells.",
+				"Deposition of antigen-antibody complexes in the skin."
+			],
+			"explanation": ""
+		}
+	}, {
+		"question": {
+			"number": "5",
+			"stem": {
+				"paragraph_1": "Bee stings can be life threatening in allergic individuals. What is the immediate concern in a patient collapsed from a hypersensitivity reaction to a bee sting?"
+			},
+			"img": "",
+			"options": [
+				"Low blood pressure",
+				"Anemia",
+				"High fever",
+				"Dehydration"
+			],
+			"explanation": ""
+		}
+	}, {
+		"question": {
+			"number": "6",
+			"stem": {
+				"paragraph_1": "A patient diagnosed as diabetic was started on daily intradermal injections of 55 units of porcine insulin. This therapy was initially effective; however, 30 days after its initiation the patient developed a local vasculitis that progressed into necrosis at the site of injection. A biopsy of the site indicated an infiltration of polymorphonuclear neutrophils (PMNs). How is the reaction at the site of injection best classified?"
+			},
+			"img": "",
+			"options": [
+				"Arthus reaction",
+				"Systemic anaphylaxis",
+				"Dehydrated type hypersenstivity",
+				"Antibody-dependent cell-mediated cytotoxicity (ADCC)"
+			],
+			"explanation": ""
+		}
+	}, {
+		"question": {
+			"number": "7",
+			"stem": {
+				"paragraph_1": "A 10-year-old boy runs into a patch of poison ivy during a camping trip. What type of reaction will he likely develop?"
+			},
+			"img": "",
+			"options": [
+				"A wheal and flare reaction mediated by T cells",
+				"An immediate type of sensitivity reaction, mediated by IgE",
+				"An immune complex reaction mediated by IgG antibodies",
+				"A delayed-type sensitivity reaction mediated by T cells"
+			],
+			"explanation": ""
+		}
+	}, {
+		"question": {
+			"number": "8",
+			"stem": {
+				"paragraph_1": "A patient who sustained a severe snakebite was brought to the emergency department. He was given equine antivenom gamma-globulin and responded well to treatment. Within 5 days, the patient developed a slight fever and hives. This patient is likely beginning to experience a hypersensitivity reaction which is predominantly which type?"
+			},
+			"img": "",
+			"options": [
+				"I",
+				"II",
+				"III",
+				"IV"
+			],
+			"explanation": ""
+		}
+	}
+	],
+	"date": "18 Jan 2017 10:00:00 GMT-400",
+	"release_questions": "18 Jan 2017 9:30:00 GMT-400"
+}

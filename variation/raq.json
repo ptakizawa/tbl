@@ -24,7 +24,7 @@
 		{
 		"number": "2",
 		"stem": {
-			"paragraph_1": "For questions 2 - 4, an investigator measured body mass index(BMI) of fitness club members. He reported that 15% were under-weight, 30% had healthy weight, and 15% are overweight, 25% are obese, and 15% extremely obese. The members were mostly men (75%).",
+			"paragraph_1": "For questions 2 - 3, an investigator measured body mass index (BMI) of fitness club members. He reported that 15% were under-weight, 30% had healthy weight, and 15% are overweight, 25% are obese, and 15% extremely obese. The members were mostly men (75%).",
 			"paragraph_2": "What is the probability that a randomly selected member of the club members will be healthy or overweight?"
 		},
 		"img": "",
@@ -32,8 +32,8 @@
 			[
 			"20%",
 			"25%",
-			"30%",
-			"45%"
+			"45%",
+			"50%"
 			],
 		"explanation":""
 		}
@@ -68,8 +68,8 @@
 			[
 			"Nominal scale",
 			"Continuous scale",
-			"Ratio scale",
-			"Qualitative scale"
+			"Qualitative scale",
+			"Ratio scale"
 			],
 		"explanation": ""
 		}

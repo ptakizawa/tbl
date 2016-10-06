@@ -21,20 +21,20 @@
 					<p>B and T lymphocytes appear identical under light microscopy. Each is ~7-15 &micron;m, with blue cytoplasm and an ovoid nucleus containing coarse chromatin. A representative lymphocyte is shown below.</p>
 					<figure>
 						<figcaption>Lymphocyte</figcaption>
-						<img class="img-responsive" src="images/lymphocyte.jpg" alt="Lymphocyte" />
+						<img class="img-responsive" src="../images/lymphoid_cells/lymphocyte.jpg" alt="Lymphocyte" />
 					</figure>
 					<h2>NK Cells</h2>
 					<p>Whereas B and T cells are part of the adaptive immune system (i.e., the immune system that governs antigen-specific immune responses), NK cells are part of the innate immune system in that they serve to provide general, rather than antigen-specific, immunity. They express CD16 and CD56 on their cell surfaces and are negative for the T cell marker CD3. Morphologically they are large, unusual-appearing lymphocytes, a representative of which is shown below.</p>
 					<figure>
 						<figcaption>NK Cells</figcaption>
-						<img class="img-responsive" src="images/nk_cells.jpg" alt="NK Cells" />
+						<img class="img-responsive" src="../images/lymphoid_cells/nk_cells.jpg" alt="NK Cells" />
 					</figure>
 					
 					<h2>Identification of Lymphoid Cells by Flow Cytometry</h2>
 					<p>T-cells, B-cells, and NK-cells can also be differentiated from one another by using flow cytometry to identify their proteins and cell surface markers. In this technique, cells are stained with fluoroscopic markers that each have specificity against a different cellular protein. The stained sample is then run through a machine that exposes the cells to a laser; any cells bearing the specific protein(s) in question will fluoresce, and the different wavelengths at which the cells fluoresce allow for identification of multiple different cell types. Consider, for example, the following flow cytometry plot</p>
 					<figure>
 						<figcaption>Flow Cytometry Plot of CD5 and CD 19</figcaption>
-						<img class="img-responsive" src="images/flow_cytometry.jpg" alt="Flow Cytometry" />
+						<img class="img-responsive" src="../images/lymphoid_cells/flow_cytometry.jpg" alt="Flow Cytometry" />
 					</figure>
 					<p>This shows one population of cells that express CD19, a pan-B cell marker, plus CD5, a T cell marker, in addition to a smaller population of cells that are CD5+ CD19-.</p>
 					
@@ -42,20 +42,20 @@
 					<p>A basic understanding of the lymphoid system is essential in order to understand the various lymphocyte disorders. The lymphoid system contains primary and secondary lymphoid organs. Primary lymphoid organs include the bone marrow, where B cell development occurs, and the thymus, the site of T cell development. Secondary lymphoid organs include the lymph nodes, mucosa-associated lymphoid tissue (MALT), and the spleen. The secondary lymphoid organs are the sites where antigenic stimulation of B cells occurs. There are hundreds of lymph nodes disseminated all over the body. Each has a defined structure, consisting of primary lymphoid follicles where mature non-activated B cell congregate, and secondary lymphoid follicles (a.k.a. germinal centers), which arise when B cells in primary follicles become activated by antigenic stimulation. A schematic of a typical lymph node is shown here</p>
 					<figure>
 						<figcaption>Cartoon Lymph Node</figcaption>
-						<img class="img-responsive" src="images/lymph_node_cartoon.jpg" alt="Lymph Node Cartoon" />
+						<img class="img-responsive" src="../images/lymphoid_cells/lymph_node_cartoon.jpg" alt="Lymph Node Cartoon" />
 					</figure>
 					
 					<h2>Lymphocytosis</h2>
 					<p>A common diagnostic problem involving lymphocytes that many physicians face at some point in their careers, regardless of specialty, is the evaluation of a patient with lymphocytosis, defined as an increase in absolute lymphocyte count, i.e., the percentage of lymphocytes multiplied by the total white blood cell (WBC) count. As we learned for myeloid cells, red cells, and platelets, the approach to lymphocytosis begins with categorization as either primary (due to a bone marrow or other primary hematologic disease) or secondary (due to a stimulus exogenous to the marrow). These categories can be distinguished on the basis of the peripheral blood smear, history, and sometimes flow cytometry. As an example, consider a college student who presents to urgent care clinic with two weeks of fever, profound malaise, a sore throat, and swollen cervical lymph nodes, who has a complete blood count (CBC) drawn that shows an elevated lymphocyte count, and whose blood chemistries reveal an increase in liver function tests. What would the diagnosis be if the following were seen on the smear?</p>
 					<figure>
 						<figcaption>Blood Smear</figcaption>
-						<img class="img-responsive" src="images/blood_smear.jpg" alt="Blood Smear" />
+						<img class="img-responsive" src="../images/lymphoid_cells/blood_smear.jpg" alt="Blood Smear" />
 					</figure>
 					<p>The answer is: infectious mononucleosis. The cell above is called an atypical lymphocyte, so-named because it has certain features of a lymphocyte (i.e., blue cytoplasm, absence of significant nuclear folding) but clearly looks atypical from a normal lymphocyte based on the large size of the cell and the "scalloping" of the plasma membrane against adjacent red blood cells. This is a hallmark of viral infections. In the context of a young patient with concomitant cervical lymphadenopathy, malaise, and transaminase elevation, EBV infection is the most likely cause.</p>
 					<p>Alternately, consider the case of an elderly man who is found to have an elevation in lymphocyte count, diffuse lymphadenopathy, and the following smear. What is the likely diagnosis?</p>
 					<figure>
 						<figcaption>Blood Smear</figcaption>
-						<img class="img-responsive" src="images/blood_smear_2.jpg" alt="Blood Smear" />
+						<img class="img-responsive" src="../images/lymphoid_cells/blood_smear_2.jpg" alt="Blood Smear" />
 					</figure>
 					<p>The answer is: chronic lymphocytic leukemia (CLL). This is a B cell lymphoproliferative disorder that is due to malignant B cells, which have a peculiar immunophenotype in that they express CD19 (a pan-B cell marker) and also CD5 (a T cell marker), and they are dim for CD20 (whereas most B cells have robust CD20 expression). The smear contains a preponderance of mature-appearing malignant lymphoid cells, along with large, irregular-appearing cells on the smear; these latter cells are called smudge cells and represent malignant lymphocytes that have been damaged by the smear preparation process. The constellation of asymptomatic lymphocytosis in an elderly person with diffuse lymphadenopathy and the above smear is very characteristic of CLL, although flow cytometry would clinch the diagnosis.</p>
 

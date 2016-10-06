@@ -1,0 +1,36 @@
+{
+"questions":  [
+	{
+	"question": 
+		{
+		"number": "1",
+		"stem": {
+			"paragraph_1": "A 7 year-old female with a history of sickle cell disease (Hgb S/S) is admitted to Yale-New Haven Hospital with fever, total body pain, fatigue, and dark urine. One week earlier she had been hospitalized at a hospital in rural Massachusetts for acute chest syndrome, during which time she underwent placement of a Quinton catheter and an exchange transfusion of 15 units of leukoreduced, Hgb S-negative red blood cells. Her past medical history is otherwise remarkable for having previously received one or two other red cell transfusions as a toddler.",
+			"paragraph_2": "Upon the current admission, laboratory testing is done that shows the following:",
+			"list_1": [
+				"WBC = 7,300/&micro;L",
+	     		"Hemoglobin = 4.5 g/dL",
+	     		"Hematocrit = 3.5%",
+	     		"Platelets = 740,000/&micron;L"
+			],
+			"paragraph_3": "The reticulocyte count is 0.5%. Total bilirubin is 11 mg/dL; direct bilirubin is 0.2 mg/dL.",
+	     	"paragraph_4": "A direct Coombs test is performed, which is negative. An antibody screen (i.e., indirect Coombs test) shows reactivity against red cells containing the Kell antigen.",
+	     	"paragraph_5": "Labs obtained from her earlier hospitalization in Massachusetts show that prior to her red cell exchange transfusion, she had had a negative antibody screen.",
+	     	"paragraph_6": "What is the most likely explanation for her current anemia?"
+		},
+		"img": "",
+		"options": 
+			[
+			"Aplastic crisis due to parvovirus.",
+			"Warm autoimmune hemolytic anemia.",
+			"Acute hemolytic transfusion reaction due to transfusion of mismatched red blood cells.",
+			"Delayed hemolytic transfusion reaction."
+			],
+		"explanation":""
+		}
+	}
+],
+"date": "21 Oct 2016 10:00:00 GMT-400",
+"release_questions": "21 Oct 2016 9:30:00 GMT-400"
+}
+

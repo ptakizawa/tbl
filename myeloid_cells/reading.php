@@ -11,13 +11,13 @@
 				 	<p>Pluripotent hematopoietic stem cells (HSC) in the marrow differentiate into all of the different circulating blood cells. HSCs commit to the myeloid or lymphoid lineage under the influence of cytokines & growth factors, generating myeloid or lymphoid stem cells. Mature myeloid cells include neutrophils, basophils, eosinophils, and monocytes. Red blood cells (RBC) and platelets are also derived from a common myeloid progenitor but diverge soon thereafter. This process of hematopoiesis is illustrated in the following diagram.</p>
 				 	<figure>
 						<figcaption>Hematopoiesis</figcaption>
-						<img class="img-responsive" src="images/hematopoiesis.jpg" alt="Hematopoiesis" />
+						<img class="img-responsive" src="../images/myeloid_cells/hematopoiesis.jpg" alt="Hematopoiesis" />
 					</figure>
 					<h2>Neutrophil Differentiation</h2>
 					<p>Representative photographs of actual differentiating myeloid cells in the neutrophil lineage are shown here.</p>
 					<figure>
 						<figcaption>Differentiation of Neutrophils</figcaption>
-						<img class="img-responsive" src="images/neutrophil_differentiation.jpg" alt="Differentiation of Neutrophils" />
+						<img class="img-responsive" src="../images/myeloid_cells/neutrophil_differentiation.jpg" alt="Differentiation of Neutrophils" />
 					</figure>
 					<p>Note that blasts tend to be large cells with a high nucleus-to-cytoplasm ratio, and they often contain large pale circular areas in the nucleus that represent prominent nucleoli.</p>
 					<h2>Blood Cell Count Terminology</h2>
@@ -27,7 +27,7 @@
 					<p>As an example, consider a patient with a WBC count of 24,000/&micron;L (normal 4-10,000) and the following blood smear.</p>
 					<figure>
 						<figcaption>Blood Smear</figcaption>
-						<img class="img-responsive" src="images/blood_smear.jpg" alt="Blood Smear" />
+						<img class="img-responsive" src="../images/myeloid_cells/blood_smear.jpg" alt="Blood Smear" />
 					</figure>
 					<p>The first step in evaluating this patient's leukocytosis is to determine which blood cell type is elevated -  in this case, neutrophils. The second step is to determine whether the neutrophilia seen here is due to a primary or secondary cause. Primary causes of neutrophilia arise when there is a primary hematologic or bone marrow problem giving rise to a high neutrophil count. A primary neutrophilia might result from a hematopoietic defect due to clonal overproduction of neutrophils, which can be seen in some types of leukemias or similar disorders known as myeloproliferative neoplasms. By contrast, secondary neutrophilia arises when there is an exogenous stimulus that promotes normal albeit accelerated neutrophil production and release from the bone marrow, or that increases intravascular demargination of neutrophils. The major causes of secondary neutrophilia are infections (which tend to give rise to not only an increase in mature circulating neutrophils, but also a rise in circulating bands, a.k.a. "bandemia") or medications, particularly steroids (which increase neutrophil demargination from the vascular wall) or lithium (which causes increased levels of granulocyte colony stimulating factor (G-CSF)).</p>
 						<p>Here are some additional examples of how to approach elevations in different myeloid cell counts.</p>
@@ -41,7 +41,7 @@
 							<li>Myelodysplastic syndrome (MDS) is a diagnosis that is based on morphology of blood and bone marrow cells, in conjunction with circulating cell numbers. The diagnostic criteria require that &ge; 10 of cells have dysplasia - which means that the cells "look funny". Many patients with MDS will also have an increase in the number of myeloid blasts in the bone marrow. The major complications of MDS are the consequences of cytopenias (e.g., neutropenia, which can give rise to increased infections; anemia, leading to fatigue and debilitation; and thrombocytopenia, leading to increased bleeding), and an increased risk of transformation into acute leukemia, the latter defined by the presence of &ge; 20% myeloid blasts in the blood or bone marrow. Interestingly, MDS can sometimes be hallmarked by the presence of circulating myeloid cells known as Pelger-Huet cells, which have a bilobed nucleus with a thin piece of nuclear material connecting the two nuclear lobes, resembling pince nez glasses, as follows:
 						<figure>
 						<figcaption>Pelger-Huet Cells</figcaption>
-						<img class="img-responsive" src="images/pelger_huet_cells.jpg" alt="Pelger Huet Cells" />
+						<img class="img-responsive" src="../images/myeloid_cells/pelger_huet_cells.jpg" alt="Pelger Huet Cells" />
 					</figure>
 					Note that the original Pelger-Huet anomaly was first described as an inherited autosomal dominant condition sometimes be associated with certain anatomic abnormalities. Hence, most clinicians refer to the Pelger-Huet cells of MDS as "pseudo"-Pelger Huet cells to distinguish them from the true Pelger-Huet anomaly.</li>
 					<li>Myeloproliferative neoplasms (MPN) are a heterogeneous group of disorders characterized by excessive proliferation of different hematopoietic cell types. There are four MPNs:

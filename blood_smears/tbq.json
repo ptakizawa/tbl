@@ -1,0 +1,49 @@
+{
+	"questions": [
+		{
+		"question": {
+			"number": "1",
+			"stem": {
+				"paragraph_1": "Which clinical vignette best fits the following blood smear?"
+			},
+			"img": "../images/blood_smears/tbq_1.jpg",
+			"options": [
+				"24 year-old female with fatigue and menorrhagia.",
+				"75 year-old man with recurrent falls and glossitis.",
+				"57 year-old female with a family history of anemia."
+			],
+			"explanation": ""
+		}
+	}, {
+		"question": {
+			"number": "2",
+			"stem": {
+				"paragraph_1": "Which clinical vignette best fits the following blood smear?"
+			},
+			"img": "../images/blood_smears/tbq_2.jpg",
+			"options": [
+				"47 year-old female with a history of gastric bypass surgery and complaints of tingling and numbness affecting her fingers and toes.",
+				"73 year-old man with a history of abdominal pain and copious ibuprofen use, now with tarry black stools.",
+				"An 8 year-old boy, originally from Nigeria, with severe chest pain, tachycardia, and inspiratory lung crackles in the posterior lung fields. "
+			],
+			"explanation": ""
+		}
+	}, {
+		"question": {
+			"number": "3",
+			"stem": {
+				"paragraph_1": "Which clinical vignette best fits the following blood smear?"
+			},
+			"img": "../images/blood_smears/tbq_3.jpg",
+			"options": [
+				"23 year-old male vegan.",
+				"30 year-old woman with gallstones and jaundice, and a family history of a cousin who underwent splenectomy at a young age.",
+				"57 year-old African-American man with jaundice after taking trimethoprim-sulfamethoxazole for a urinary tract infection."
+			],
+			"explanation": ""
+		}
+	}
+	],
+	"date": "21 Oct 2016 10:00:00 GMT-400",
+	"release_questions": "21 Oct 2016 9:30:00 GMT-400"
+}

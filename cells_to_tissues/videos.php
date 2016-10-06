@@ -15,7 +15,7 @@
 					<li>Students should be able to develop reasonable arguments for the relative importance of cadherins and integrins in tissue repair and the progression of cancer.</li>
 				</ul>
         
-			<video src="videos/cells_to_tissues.mp4" controls></video>
+			<video src="../videos/cells_to_tissues/cells_to_tissues.mp4" controls></video>
 			<div id="video-toolbar"><input type="button" id="video-faster" value="Faster" /><input type="button" id="video-slower" value="Slower" /><span class="video-speed">Speed = 1x</span></div>
 			    </div><!-- /.blog-post -->
 		    </div><!--/.col-xs-12-->

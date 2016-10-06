@@ -71,7 +71,8 @@ $('document').ready(function() {
 			dataType: 'JSON',
 			success: function(data) {		
 				$.each(data["questions"], function(index, value) {
-					var raq = new question(value["question"]["stem"], value["question"]["options"], value["question"]["explanation"], value["question"]["number"], value["question"]["img"]);
+					var stem = parseStem(value["question"]["stem"]);
+					var raq = new question(stem, value["question"]["options"], value["question"]["explanation"], value["question"]["number"], value["question"]["img"]);
 					tbq_questions_.push(raq);
 			  	});
 			  	tbq_questions_.sort(function(a,b) {
@@ -133,32 +134,37 @@ function parseStem(stem_data) {
 	return parsed_stem;
 }
 
+function generateStemHTML(stem_data) {
+	var stem_html = "";
+  	stem_data.forEach(function(element) {
+	  	if (element instanceof paragraph) {
+		  	stem_html = stem_html.concat("<p>");
+		  	stem_html = stem_html.concat(element.text);
+		  	stem_html = stem_html.concat("</p>");
+	  	} else if (element instanceof list) {
+		  	element.items.sort(function(a,b) {
+			  	return (a.order > b.order ? 1 : -1);
+		  	});
+		  	stem_html = stem_html.concat("<ul>")
+		  	element.items.forEach(function(item) {
+			  	stem_html = stem_html.concat("<li>"+item.text+"</li>");
+		  	});
+		  	stem_html = stem_html.concat("</ul>");
+	  	}
+  	});
+  	return stem_html;
+
+}
+
 function displayQuestions(explanations) {
 	questions_.forEach(function(question) {
 		question.stem.sort(function(a,b) {
 		  	return (a.order > b.order ? 1 : -1);
 	  	});
-	  	var stem_html = "";
-	  	
-	  	question.stem.forEach(function(element) {
-		  	if (element instanceof paragraph) {
-			  	stem_html = stem_html.concat("<p>");
-			  	stem_html = stem_html.concat(element.text);
-			  	stem_html = stem_html.concat("</p>");
-		  	} else if (element instanceof list) {
-			  	element.items.sort(function(a,b) {
-				  	return (a.order > b.order ? 1 : -1);
-			  	});
-			  	stem_html = stem_html.concat("<ul>")
-			  	element.items.forEach(function(item) {
-				  	stem_html = stem_html.concat("<li>"+item.text+"</li>");
-			  	});
-			  	stem_html = stem_html.concat("</ul>");
-		  	}
-	  	});
-		$('ol.questions').append('<li class="question">'+stem_html+'</li>');
+	  	var stem_html = generateStemHTML(question.stem);
+	  	$('ol.questions').append('<li class="question">'+stem_html+'</li>');
 		if (question.img.length > 0) {
-			$('li.question:last').append('<img class="img-responsive" src="images/'+question.img+'">');
+			$('li.question:last').append('<img class="img-responsive" src="'+question.img+'">');
 		} 
 		$('li.question:last').append('<ol type="A" class="question-options"></ol>');
 		for(var i=0; i < question.options.length;  i++) {
@@ -173,7 +179,27 @@ function displayQuestions(explanations) {
 
 function displayTbqQuestions(explanations) {
 	tbq_questions_.forEach(function(question) {
-		$('ol.questions').append('<div class = "tbq-toggle"><h4>Open question</h4></div><div class = "tbq hidden"><li class="question">'+question.stem+'</li>');
+		question.stem.sort(function(a,b) {
+		  	return (a.order > b.order ? 1 : -1);
+	  	});
+	  	var stem_html = generateStemHTML(question.stem);
+	  	/*question.stem.forEach(function(element) {
+		  	if (element instanceof paragraph) {
+			  	stem_html = stem_html.concat("<p>");
+			  	stem_html = stem_html.concat(element.text);
+			  	stem_html = stem_html.concat("</p>");
+		  	} else if (element instanceof list) {
+			  	element.items.sort(function(a,b) {
+				  	return (a.order > b.order ? 1 : -1);
+			  	});
+			  	stem_html = stem_html.concat("<ul>")
+			  	element.items.forEach(function(item) {
+				  	stem_html = stem_html.concat("<li>"+item.text+"</li>");
+			  	});
+			  	stem_html = stem_html.concat("</ul>");
+		  	}
+	  	});*/
+		$('ol.questions').append('<div class = "tbq-toggle"><h4>Open question</h4></div><div class = "tbq hidden"><li class="question">'+stem_html+'</li>');
 		
 		$('li.question:last').append('<ol type="A" class="question-options"></ol>');
 		//$('li.question:last').append('<img class="img-responsive" src="'+question.img+'">');
@@ -181,14 +207,15 @@ function displayTbqQuestions(explanations) {
 			$('ol.question-options:last').append('<li>'+question.options[i]+'</li>');
 		}
 		if (question.img.length > 0) {
-			$('li.question:last').append('<img class="img-responsive" src="images/'+question.img+'">');
+			$('li.question:last').append('<img class="img-responsive" src="'+question.img+'">');
 		}
 		$('ol.questions').append('</div/>');
+		
+	});
 		//$('li.question:last').append('<span class="marker-info"><a href="#" number="'+question.number+'">Show Marker</a></span>');
 		/*(if (explanations) {
 			$('li.question:last').append('<br /><button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#explanation_'+question.number+'">Show Explanation</button><div class="modal fade" id="explanation_'+question.number+'" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Explanation</h4></div><div class="modal-body"><p>'+question.explanation+'</p></div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>');
 		}*/
-	});
 	$('.tbq-toggle').click(function(e) {
 		e.preventDefault();
 		$(this).next().toggleClass('hidden');

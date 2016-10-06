@@ -1,0 +1,27 @@
+{
+"questions":  
+[
+	{
+	"question": 
+		{
+		"number": "1",
+		"stem": {
+			"paragraph_1": "While driving home from the beach on a summer afternoon, you notice your car's engine temperature rising above normal. You arrive home and park the car in the garage. Suspecting a leak in the cooling system, you check under the car the following morning but see no sign of fluid on the floor of the garage. You take the car to JiffyLube and they recommend flushing the cooling system and adding fresh coolant for $99. You agree to the service. On the way home you see your engine temperature rise again above normal. Frustrated, you consider your options. Which of the following would be the best course of action?"
+		},
+		"img": "",
+		"options": 
+			[
+			"Replace the radiator",
+            "Replace the water pump",
+            "Replace the thermostat",
+            "Drive with the heater on"
+			],
+		"explanation":""
+		}
+	}
+],
+"date": "30 Aug 2016 11:00:00 GMT-400",
+"release_questions": "30 Aug 2016 10:30:00 GMT-400"
+}
+
+

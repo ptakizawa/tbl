@@ -40,7 +40,7 @@
 				"paragraph_1": "65 year old gentleman presents with non colicky upper abdominal pain, mostly in the epigastric region of 3 months duration.  Based on his Framingham score his Physician placed him baby aspirin 81 mg per day, 6 months ago, as prophylaxis against coronary heart disease. ",
 				"paragraph_2": "Endoscopy reveals the image below. From where would you take a biopsy?"
 			},
-			"img": "raq_1.jpg",
+			"img": "../images/pharmacology_and_therapeutics_of_the_upper_gi_tract/raq_1.jpg",
 			"options": [
 				"Obtain biopsies from the center of the ulcer",
 				"Obtain biopsies from the edge of the ulcer",
@@ -57,7 +57,7 @@
 				"paragraph_1": "A 34 year old lady presents with epigastric pain of a month's duration which occurs before meals, is relieved by eating until the pain recurs and hour or two after eating.  She has had two such episodes in the past which were treated with PPIs with relief, but the symptoms recurred some months after discontinuing PPIs.  She has not been on NSAIDs.",
 				"paragraph_2": "An endoscopy was done this time and the following was seen in the duodenal bulb. From where would you take a biopsy?"
 			},
-			"img": "raq_2.jpg",
+			"img": "../images/pharmacology_and_therapeutics_of_the_upper_gi_tract/raq_2.jpg",
 			"options": [
 				"Obtain biopsies from the center of the ulcer",
 				"Obtain biopsies from the edge of the ulcer",
@@ -74,7 +74,7 @@
 				"paragraph_1": "Examine the images of a biopsy",
 				"paragraph_2": "What is your diagnosis?"
 			},
-			"img": "raq_3.jpg",
+			"img": "../images/pharmacology_and_therapeutics_of_the_upper_gi_tract/raq_3.jpg",
 			"options": [
 			],
 			"explanation": ""
@@ -89,7 +89,7 @@
 				"paragraph_4": "What is your diagnosis based on the biopsy specimen?",
 				"paragraph_5": "What tests would you do next and how would you treat the patient?" 
 			},
-			"img": "raq_4.jpg",
+			"img": "../images/pharmacology_and_therapeutics_of_the_upper_gi_tract/raq_4.jpg",
 			"options": [
 			],
 			"explanation": ""

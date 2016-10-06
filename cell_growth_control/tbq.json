@@ -1,9 +1,12 @@
 {
 "questions":  [
-	{"question": 
+	{
+	"question": 
 		{
 		"number": "1",
-		"stem": "For your thesis research project you plan to study metastatic cancer using an animal model. Recalling that RAS is mutated in many cancers, you engineer a mouse whose stomach epithelial cells express on mutated copy of RAS that inhibits the GTPase activity of the protein. Histologic analysis of tissue from the genetically engineered mouse reveals several small tumors in the stomach but little signs of large turmos or metastasis. As the deadline to submit your thesis approches, you consider which step you could quickly perform to generate large tumors and metastasis in the mice. Which of the following steps would you choose?",
+		"stem": {
+			"paragraph_1": "For your thesis research project you plan to study metastatic cancer using an animal model. Recalling that RAS is mutated in many cancers, you engineer a mouse whose stomach epithelial cells express on mutated copy of RAS that inhibits the GTPase activity of the protein. Histologic analysis of tissue from the genetically engineered mouse reveals several small tumors in the stomach but little signs of large turmos or metastasis. As the deadline to submit your thesis approches, you consider which step you could quickly perform to generate large tumors and metastasis in the mice. Which of the following steps would you choose?"
+		},
 		"img": "",
 		"options": 
 			[
@@ -19,7 +22,9 @@
 		{
 		"number": "2",
 		"slide": "",
-		"stem": "<p>Radiation therapy is common treatment for many types of cancer because ionizing radiation damages DNA and can cause apoptosis. You would like to increase the effectiveness by which radiation therapy kills cancer cells. You decide to develop a small molecule that inhibits the activty of one of the proteins listed below. Which protein do you choose to target?</p> ",
+		"stem": {
+			"paragraph_1": "Radiation therapy is common treatment for many types of cancer because ionizing radiation damages DNA and can cause apoptosis. You would like to increase the effectiveness by which radiation therapy kills cancer cells. You decide to develop a small molecule that inhibits the activty of one of the proteins listed below. Which protein do you choose to target?"
+		},
 		"img": "",
 		"options":
 			 [

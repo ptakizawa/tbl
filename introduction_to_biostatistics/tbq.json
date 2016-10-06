@@ -3,14 +3,16 @@
 	{"question": 
 		{
 		"number": "1",
-		"stem": "Study the diagram of the signaling pathway that allows a neutrophil to track a bacterium. You are a bacterium trying to escape from a neutrophil. Which of the following do you choose to produce?",
-		"img": "tbq_1.jpg",
-		"options": 
-			[
-			"Pertussis toxin",
-			"Chemical inhibitor of PI3 kinase",
-			"Chemical inhibitor of SHIP",
-			"Chemical activator of SHIP"
+		"stem": {
+			"paragraph_1": "If X represents the most accurate cutoff point of a diagnostic test, use the figure below to answer questions 1 - 4.",
+			"paragraph_2": "The cutoff point for a greater false-positive rate is which of the following?"
+		},
+		"img": "../images/introduction_to_biostatistics/tbq_1.png",
+		"options": [
+			"Point A",
+            "Point X",
+            "Point B",
+            "None"
 			],
 		"explanation":""
 		}
@@ -19,14 +21,49 @@
 		{
 		"number": "2",
 		"slide": "",
-		"stem": "<p>Insulin decreases serum glucose levels by stimulating the uptake of glucose into primarily skeletal muscle cells and adipocytes. Insulin triggers a signal transduction pathway (outlined below) that increases the number of glucose transporters called GLUT4. At low concentration of insulin, GLUT4 is stored in intracellular vesicles. The insulin signal transduction pathway causes the vesicles to be transported to the cell membrane where fusion releases the GLUT4 into the cell membrane.</p><p>Resistance to insulin is a major component of type II diabetes and can manifest as the inability of muscle cells to move GLUT4 from vesicles to the cell membrane in the presence of insulin.</p><p>You are asked to develop a treatment that stimulates the insulin signal transduction pathway and increases GLUT4 in the cell membrane. Which of the therapies would you choose to pursue?</p> ",
-		"img": "tbq_2.jpg",
-		"options":
-			 [
-			 "Express a constitutively active insulin receptor",
-	         "Overexpress PI3 kinase",
-	         "Express a constitutively active Akt",
-	         "Express constitutively active Rab8A"
+		"stem": {
+			"paragraph_1": "The cutoff point for lesser sensitivity is which of the following?"
+		},
+		"img": "",
+		"options": [
+			 "Point A",
+            "Point X",
+            "Point B",
+            "None"
+			],
+		"explanation":""
+		}
+	},
+	{"question": 
+		{
+		"number": "3",
+		"slide": "",
+		"stem": {
+			"paragraph_1": "If a screening test has identified a number of patients with positive results who potentially have cancer. Which of the letters in Figure 1 represents the most appropriate decision limit for a subsequent confirmatory test that is to be performed on these patients samples?"
+		},
+		"img": "",
+		"options": [
+			"Point A",
+            "Point X",
+            "Point B",
+            "None"
+			],
+		"explanation":""
+		}
+	},
+	{"question": 
+		{
+		"number": "4",
+		"slide": "",
+		"stem": {
+			"paragraph_1": "If the American Association of Cancer Research decided to lower the cutoff value for cancer diagnosis from B to A. This change in cutoff value most likely cause which of the following?"
+		},
+		"img": "",
+		"options": [
+            "Increase the test's false predictive rate",
+            "Increase the test's specificity",
+            "Decrease the test's sensitvity",
+            "Increase the test negative predictive value"
 			],
 		"explanation":""
 		}
